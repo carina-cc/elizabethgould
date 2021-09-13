@@ -37,7 +37,7 @@ However, realistically, John was also “rescued” by Elizabeth. In the early s
 <param ve-image 
        title="Picus Brunifrons in “A Century of Birds from the Himalaya Mountains”" 
        description="Lithograph by Elizabeth and John Gould, 1831"
-                    "Credit: Biodiversity Heritage Library." 
+       credit-label="Credit: Biodiversity Heritage Library." 
        license="CC BY 2.0"
        url="https://upload.wikimedia.org/wikipedia/commons/e/e1/A_century_of_birds_from_the_Himalaya_Mountains_%28TAB._LII%29_%289237264813%29.jpg">
 
