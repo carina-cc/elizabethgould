@@ -1,4 +1,3 @@
-# elizabethgould
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config 
@@ -15,16 +14,16 @@
 <param ve-entity eid="Q221092"> <!-- Mauritshuis -->
 <param ve-entity eid="Q36600"> <!-- The Hague -->
 
-# Sample visual essay
-
+# Summary
 This is a sample visual essay demonstrating a few key features of a Visual Essay. Additional [Documentation](https://github.com/JSTOR-Labs/juncture/wiki) and [examples](https://jstor-labs.github.io/juncture-examples) are available for reference.
 <param ve-image 
        manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
+       
+# Main Essay
 
-# Basic usage
+On the 18th of July in 1804, in the seaside town known as Ramsgate, Mr Nicholas Coxen and Elizabeth Tomkins welcomed a baby girl into the world. She was one of the couple’s many children, though sadly only she and her 3 other brothers survived their childhood. Though information regarding the early life of the Coxen children is sparse, they were firmly middle class through links to the military and lived a life typical of the era [^1].The sons pursued careers as scientists or military personnel, whilst their only daughter rose to be a typical woman of her time with education in languages, music, and art [^2]. In spite of her pre-established destiny to be a mundane Victorian lady, she would exceed expectations and become a wonderfully skilful artist. She will contribute invaluably to the world of ornithology with her talents and inspire the next generation of ornithologists. She will be Elizabeth Gould.
 
 ## Image
-
 _Girl with a Pearl Earring_ (Dutch: Meisje met de parel) is an oil painting by Dutch Golden Age painter Johannes Vermeer, 
 dated c. 1665. Going by various names over the centuries, it became known by its present title towards the end of the 
 20th century after the earring worn by the girl portrayed there.[^1]
@@ -50,5 +49,6 @@ Others are selectable using icons displayed in the top right margin of the parag
 
 # References
 
-[^1]: [Wikipedia: Girl with a Pearl Earring](https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring)
+[^1]: ["Elizabeth (Coxen) Gould (1804 - 1841)." _WikiTree_.  WikiTree Community, 5 Nov 2018. Web. Accessed on 10 Sep. 2021](https://www.wikitree.com/wiki/Coxen-86)
+[^2]: [Castellucci, Adria. “Elizabeth Gould: working wife, Victorian mother.” The Australian Museum. The Australian Museum, n.d. Web. Accessed on 10 Sep. 2021](https://australian.museum/learn/collections/museum-archives-library/john-gould/elizabeth-gould-1804-1841/)
 
