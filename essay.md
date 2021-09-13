@@ -69,7 +69,7 @@ Though the “Century” and “Birds of Europe” were impressive successes, th
 <param ve-image 
        title="Euphema Bourkii in "The Birds of Australia"."
        description="Lithograph by Elizabeth and John Gould, 1972." 
-       license="{{PD-US}}"
+       license="public domain in US"
        url="https://upload.wikimedia.org/wikipedia/commons/a/a5/Euphema_Bourkii_by_Elizabeth_Gould.jpg">
 
 This was perhaps Elizabeth’s most exciting period in her life with such an esteemed project in her hands, however, it may have also been her most distraughtly time. Correspondences in letters to her mother revealed that she carried a heavy burden when she left her home country. She sombrely documented her tough decision to leave her 3 youngest children - Charles, Eliza, and Louisa - back in England and concerns and worries constantly plagued her mind [^8]. Nevertheless, she had little time to entertain her doubts as she kept busy by preparing hundreds of sketches, drawings, and paintings of the colony’s native wildlife. The most recognised image she produced was that of the Fairy Wren. In her preliminary drawing for the lithographed plate, she confidently presented her signature technique of using soft and controlled pencil strokes to replicate the lifelike features of each specimen. Her attention to detail extended to her selection of watercolours for the pallet, ensuring that they would precisely represent Australia.
