@@ -85,7 +85,7 @@ Reportedly, John, devastated by the loss of his 37-year-old wife, memorialised h
        title="Gouldian Finch (Chloebia gouldiae)"
        description="Photographed by Martin Pot, 16 Feb. 2008"
        license="CC BY-SA 3.0"
-       url="https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/pd15-158-num.jpg?w=800&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=8539ca4f45990976634b541654947458">
+       url="https://upload.wikimedia.org/wikipedia/commons/3/3e/Male_adult_Gouldian_Finch.jpg">
 
 Elizabeth Gould was a woman of her time, raised to be a loving wife and doting mother, but that is not to discredit her for being an extraordinary artist who contributed many landmark pieces in Victorian ornithology. Though eclipsed by the glory of her husband’s name, it is important to note that she was also living in a patriarchal society where that was the expected norm. Thus, it would be prejudiced to judge her story through our 21st-century sentiments. Instead of painting her as an oppressed feminine figure of history, we should remember her as an artistically adept maid of Kent, a strong companion to her husband and a caring mother to her children.
 <param ve-image 
@@ -99,14 +99,6 @@ Elizabeth Gould was a woman of her time, raised to be a loving wife and doting m
 The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various 
 literary treatments. In 2006, the Dutch public selected it as the most beautiful painting in the Netherlands.
 <param ve-map center="Q36600" zoom="11" prefer-geojson>
-
-## Multiple viewers
-
-Multiple viewers may be defined for a single paragraph of text.  The first viewer defined is displayed as the default viewer.  
-Others are selectable using icons displayed in the top right margin of the paragraph.
-<param ve-image 
-       manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
-<param ve-map center="Q36600" zoom="11">
 
 # References
 
