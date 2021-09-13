@@ -32,63 +32,68 @@ Again, with not much known about the courtship between the lovers, we can specul
 
 However, realistically, John was also “rescued” by Elizabeth. In the early stages of their married life, Elizabeth would often illustrate scientifically accurate images of novelty bird specimens that John prepared for his customers [^6]. Her work promoted her taxidermist husband’s business, which widely expanded his career contacts and allowed him access to the country’s leading naturalists. Thus, in 1830, when presented with a collection of Himalayan bird skins, he proposed a grand idea. He thought to publish a subscriber-paid book to showcase hand-painted lithographs of these rare birds and sell them to affluent collectors and the aforementioned naturalists. It was an ambitious idea, and John knew that his artistic capabilities were limited at best. Elizabeth was more than capable, equipped with valuable education in the arts from her youth. Though it seemed she was initially sceptical of the proposal, as she asked her husband who would transfer the plates to the stones. To this question, John replied, "Why you, of course!" [^7] and thus the couple’s first publication was born.
 <param ve-image 
-       title="Cinclosoma Erythrocephala in “A Century of Birds from the Himalaya Mountains”" 
-       description="Lithograph by Elizabeth and John Gould, 1831." 
+       title="Cinclosoma erythrocephala" 
+       description="Illustrated by Elizabeth Gould for John Gould’s “A Century of Birds from the Himalaya Mountains”, 1831." 
        license="public domain"
        url="https://upload.wikimedia.org/wikipedia/commons/e/e1/A_century_of_birds_from_the_Himalaya_Mountains_%28TAB._XVII%29_%289237224583%29.jpg">
 
 There are no records of Elizabeth’s qualification as a draughtswoman, but she would have most likely been familiar with sketches and watercolour paintings of common botany. Nonetheless, it was very different to drawing photographic representations of feathered animals. This, coupled with her first pregnancy with John, must have proven to be a taxing challenge. Despite the stress of her new roles as both a mother and draughtswoman, she still spent hours meticulously practising the art of lithography, as taught by a fellow collaborator, Edward Lear [^6]. Finally, after 2 years of strenuous labour, her lavishly crafted plates were published in “A Century of Birds from the Himalaya Mountains” (1830-1832) accompanied by N. A. Vigors’ factful scientific explanations. Only days after the publication, Elizabeth gave birth to her first son, an adorable baby boy by the name of John Henry.
 <param ve-image 
-       title="Lophophorus Impeyanus in “A Century of Birds from the Himalaya Mountains”" 
-       description="Lithograph by Elizabeth and John Gould, 1831." 
+       title="Lophophorus impeyanus" 
+       description="Illustrated by Elizabeth Gould for John Gould’s “A Century of Birds from the Himalaya Mountains”, 1831." 
        license="public domain"
        url="https://upload.wikimedia.org/wikipedia/commons/5/57/A_century_of_birds_from_the_Himalaya_Mountains_%28TAB._LX%29_%289240055086%29.jpg">
 
 “A Century of Birds from the Himalaya Mountains” was massively successful and highlighted Elizabeth’s attentive approach to the smallest of details, even when selecting the right pigments and brushes. The _Picus Brunifrons_ template is an excellent demonstration of the young woman’s talents, where she accurately replicated the finest details with only a single-haired brush [^4]. Shamefully, regardless of Elizabeth’s hours of intensive hard work, her name was notably absent from the title page. Her vigorous contributions only briefly acknowledged in a short credit on the lower left of each plate - "Drawn from nature by E. Gould" - but none featured her signature.
 <param ve-image 
-       title="Picus Brunifrons in “A Century of Birds from the Himalaya Mountains”" 
-       description="Lithograph by Elizabeth and John Gould, 1831." 
+       title="Picus brunifrons" 
+       description="Illustrated by Elizabeth Gould for John Gould’s “A Century of Birds from the Himalaya Mountains”, 1831." 
        license="public domain"
        url="https://upload.wikimedia.org/wikipedia/commons/e/e1/A_century_of_birds_from_the_Himalaya_Mountains_%28TAB._LII%29_%289237264813%29.jpg">
 
 Following the success of their first publication, the Gould couple immediately worked on a more ambitious collaboration in which they titled “The Birds of Europe” (1832-1837). This 448-plate publication required the couple to travel all over continental Europe and with each new expedition, Elizabeth’s artistic skills improved [^8]. In contrast to her previous work in “Century”, limited to drawing taxidermied specimens, for “The Birds of Europe”, Elizabeth could observe breathing, flying, animated birds. With her flourishing artistry, Elizabeth authentically captured the true colouring of their “soft parts” - eyes, neck wattles, skin - in which even the best taxidermy practices could not replicate. The authentic colouring, paired with her choices of more dynamic poses, allowed her designs to stand out from the sea of stiff poses that were favoured in this century.
 <param ve-image 
-       title="Haliaeetus Leucocephalus in “The Birds of Europe”. Vol 2." 
-       description="Lithograph by Elizabeth and John Gould, 1832." 
+       title="Haliaeetus leucocephalus" 
+       description="Illustrated by Elizabeth Gould for John Gould’s “The Birds of Europe - Vol II”, 1832." 
        license="public domain"
        url="https://upload.wikimedia.org/wikipedia/commons/a/a4/GouldBirdsEuropeIMerlin.jpg">
 
 For 5 exhausting years, Elizabeth dedicated hours upon hours to perfecting “The Birds of Europe”, but her role as a mother was not to be forgotten. During this time, she also gave birth to 5 more children, though only 3 survived infancy [^8]. Yet again, despite Elizabeth’s tireless efforts, her award came as a small credit in the lower corner of each plate. However, this time the credit not only bore Elizabeth’s initials but John’s as well. He credited his wife for the drawings and lithographs but attributed the "sketches and designs" to his labour. Contrastingly, multiple critics have suggested John did little more than make minor changes to or simply just approved Elizabeth’s sketches [^4]. It was also during this hectic time that a young Charles Darwin recognised Elizabeth’s creative gift and commissioned her to produce 50 lithographic plates for his publication, “The Zoology of the Voyage of H.M.S. Beagle - Part III Birds” [^6]. Again, Elizabeth’s name was absent from these plates.
 <param ve-image 
-       title="Geospiza Parvula in “The Zoology of the Voyage of H.M.S. Beagle - Part III Birds”." 
-       description="Lithograph by Elizabeth and John Gould, 1832-1836." 
+       title="Darwin's Finches (Geospiza parvula)" 
+       description="Illustrated by Elizabeth Gould for Charles Darwin’s “The Zoology of the Voyage of H.M.S. Beagle - Part III Birds”, 1832-1836" 
        license="public domain"
        url="https://ia800308.us.archive.org/BookReader/BookReaderImages.php?id=zoologyofvoyageo03darw&itemPath=%2F7%2Fitems%2Fzoologyofvoyageo03darw&server=ia800308.us.archive.org&page=n268_w410">
 
 Though the “Century” and “Birds of Europe” were impressive successes, the Gould’s were most celebrated for their work in “The Birds of Australia” (1840-1848). This 7-volume publication was composed of 681 specimens, of which 84 were painted by Elizabeth herself [^6]. Similar to her previous work in the “Birds of Europe”, to deliver the highest quality depictions of the foreign specimens to their subscribers, she had to embark on a long journey to Australia to study their organic forms. Subsequently, the couple and their eldest son took off to explore the vast land on the other side of the planet. During their stay in the foreign country, they lived on Elizabeth’s brothers’ farm which later became their base of operations [^1].
 <param ve-image 
-       title="Euphema Bourkii in "The Birds of Australia"."
-       description="Lithograph by Elizabeth and John Gould, 1972." 
-       license="public domain in US"
+       title="Euphema bourkii"
+       description="Illustrated by Elizabeth Gould for John Gould’s "Birds of Australia", 1972" 
+       license="public domain"
        url="https://upload.wikimedia.org/wikipedia/commons/a/a5/Euphema_Bourkii_by_Elizabeth_Gould.jpg">
 
 This was perhaps Elizabeth’s most exciting period in her life with such an esteemed project in her hands, however, it may have also been her most distraughtly time. Correspondences in letters to her mother revealed that she carried a heavy burden when she left her home country. She sombrely documented her tough decision to leave her 3 youngest children - Charles, Eliza, and Louisa - back in England and concerns and worries constantly plagued her mind [^8]. Nevertheless, she had little time to entertain her doubts as she kept busy by preparing hundreds of sketches, drawings, and paintings of the colony’s native wildlife. The most recognised image she produced was that of the Fairy Wren. In her preliminary drawing for the lithographed plate, she confidently presented her signature technique of using soft and controlled pencil strokes to replicate the lifelike features of each specimen. Her attention to detail extended to her selection of watercolours for the pallet, ensuring that they would precisely represent Australia.
+<param ve-image 
+       title="Blue Wren (Malurus cyaneus)"
+       description="Illustrated by Elizabeth Gould for John Gould’s "Birds of Australia", 1972"
+       license="public domain"
+       url="https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/pd15-158-num.jpg?w=800&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=8539ca4f45990976634b541654947458">
 
 In 1840, John, Elizabeth and John Henry returned to familiar British soil with a new collection of exotic specimens and a fresh addition to the Gould family - baby Franklin [^1]. Even when reunited with the rest of her children after 2 long years of separation, Elizabeth could not abandon her work and spent her time carefully transferring her hand-crafted compositions onto stones. Tragically, she did not see the project to its completion as Elizabeth died on 15 August 1841 from a fatal contraction of puerperal fever, following the birth of her third daughter, Sarah [^4].
 
 Reportedly, John, devastated by the loss of his 37-year-old wife, memorialised her by naming 2 Australian birds in her honour - Mrs Gould’s Sunbird and the Gouldian Finch. He accompanied the commemoration with a thankful note, acknowledging Elizabeth’s utmost devotion to their family legacy [^9]. Ultimately, with the unfortunate premature death of his beloved wife, John would outsource a new upcoming artist by the name of Henry Richter to finish the rest of the book using Elizabeth’s remaining sketches and designs [^10].
+<param ve-image 
+       title="Gouldian Finch ()"
+       description="Photographed by Martin Pot, 16 Feb. 2008"
+       license="CC BY-SA 3.0"
+       url="https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/pd15-158-num.jpg?w=800&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=8539ca4f45990976634b541654947458">
 
 Elizabeth Gould was a woman of her time, raised to be a loving wife and doting mother, but that is not to discredit her for being an extraordinary artist who contributed many landmark pieces in Victorian ornithology. Though eclipsed by the glory of her husband’s name, it is important to note that she was also living in a patriarchal society where that was the expected norm. Thus, it would be prejudiced to judge her story through our 21st-century sentiments. Instead of painting her as an oppressed feminine figure of history, we should remember her as an artistically adept maid of Kent, a strong companion to her husband and a caring mother to her children.
-
-## Image
-_Girl with a Pearl Earring_ (Dutch: Meisje met de parel) is an oil painting by Dutch Golden Age painter Johannes Vermeer, 
-dated c. 1665. Going by various names over the centuries, it became known by its present title towards the end of the 
-20th century after the earring worn by the girl portrayed there.[^1]
 <param ve-image 
-       label="Girl with a Pearl Earring" 
-       description="painting by Johannes Vermeer" 
-       license="public domain" 
-       url="https://upload.wikimedia.org/wikipedia/commons/0/0f/1665_Girl_with_a_Pearl_Earring.jpg">
+       title="Portrait of Elizabeth Gould holding an Australian cockatiel (Nymphicus hollandicus)"
+       description="Oil painting by unknown artist"
+       license="public domain"
+       url="https://upload.wikimedia.org/wikipedia/commons/e/e5/Elizabeth_Gould.jpg">
 
 ## Map
 
