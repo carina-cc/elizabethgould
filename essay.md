@@ -10,8 +10,8 @@
      are thus available in all text.  Entity identifiers (QIDs) can be found in either
      Wikipedia or Wikidata (https://www.wikidata.org)> -->
 <param ve-entity eid="Q185372"> <!-- Girl with a Pearl Earring painting -->
-<param ve-entity eid="Q41264"> <!-- Johannes Vermeer -->
-<param ve-entity eid="Q221092"> <!-- Mauritshuis -->
+<param ve-entity eid="Q253875"> <!-- Lophophorus Impeyanus -->
+<param ve-entity eid="Q253875"> <!-- Picus Brunifrons -->
 <param ve-entity eid="Q36600"> <!-- The Hague -->
 
 # Summary
@@ -24,12 +24,13 @@ This is a sample visual essay demonstrating a few key features of a Visual Essay
 On the 18th of July in 1804, in the seaside town known as Ramsgate, Mr Nicholas Coxen and Elizabeth Tomkins welcomed a baby girl into the world. She was one of the couple’s many children, though sadly only she and her 3 other brothers survived their childhood. Though information regarding the early life of the Coxen children is sparse, they were firmly middle class through links to the military and lived a life typical of the era [^1].The sons pursued careers as scientists or military personnel, whilst their only daughter rose to be a typical woman of her time with education in languages, music, and art [^2]. In spite of her pre-established destiny to be a mundane Victorian lady, she would exceed expectations and become a wonderfully skilful artist. She will contribute invaluably to the world of ornithology with her talents and inspire the next generation of ornithologists. She will be Elizabeth Gould.
 
 Some may find the family name “Gould” familiar, especially in ornithological circles, with association to titles such as “The Birdman” or “The Father of Australian Ornithology” who published some of the most famous ornithologic books of the 19th century [^3]. Most would remember the accomplished man as John Gould. He left a remarkable legacy of beautifully illustrated documentation of various animals across the globe. Yet, he was not the sole creditor for his prodigious work. He had the help of a talented partner, his wife Elizabeth, who supported and worked alongside him throughout his career.
-Again, with not much known about the courtship between the lovers, we can speculate it is likely they met through Elizabeth’s younger brother, Charles Coxen. At 22 years old, Elizabeth grew unsatisfied with her occupation as the governess to the 9-year-old daughter of the Chief of the Office of the King’s Proctor. From accounts in letters to her mother, it is said that she felt life was “miserably-wretched dull” [^4]. Thus, it is possible that she would have wanted an escape from her tedious labour and graduate into a life of domesticity. Some authors had even said that John Gould “rescued” [^5] her with their marriage on January 5, 1829, at St James Church, Piccadilly [^1].
 <param ve-image 
        title="John Gould" 
        description="Lithograph by T. H. Maguire, 1849 at Wellcome Library, London" 
        license="CC BY 4.0"
        url="https://upload.wikimedia.org/wikipedia/commons/1/1c/John_Gould._Lithograph_by_T._H._Maguire%2C_1849._Wellcome_L0013780.jpg">
+       
+Again, with not much known about the courtship between the lovers, we can speculate it is likely they met through Elizabeth’s younger brother, Charles Coxen. At 22 years old, Elizabeth grew unsatisfied with her occupation as the governess to the 9-year-old daughter of the Chief of the Office of the King’s Proctor. From accounts in letters to her mother, it is said that she felt life was “miserably-wretched dull” [^4]. Thus, it is possible that she would have wanted an escape from her tedious labour and graduate into a life of domesticity. Some authors had even said that John Gould “rescued” [^5] her with their marriage on January 5, 1829, at St James Church, Piccadilly [^1].
 
 However, realistically, John was also “rescued” by Elizabeth. In the early stages of their married life, Elizabeth would often illustrate scientifically accurate images of novelty bird specimens that John prepared for his customers [^6]. Her work promoted her taxidermist husband’s business, which widely expanded his career contacts and allowed him access to the country’s leading naturalists. Thus, in 1830, when presented with a collection of Himalayan bird skins, he proposed a grand idea. He thought to publish a subscriber-paid book to showcase hand-painted lithographs of these rare birds and sell them to affluent collectors and the aforementioned naturalists. It was an ambitious idea, and John knew that his artistic capabilities were limited at best. Elizabeth was more than capable, equipped with valuable education in the arts from her youth. Though it seemed she was initially sceptical of the proposal, as she asked her husband who would transfer the plates to the stones. To this question, John replied, "Why you, of course!" [^7] and thus the couple’s first publication was born.
 <param ve-image 
@@ -40,16 +41,16 @@ However, realistically, John was also “rescued” by Elizabeth. In the early s
 
 There are no records of Elizabeth’s qualification as a draughtswoman, but she would have most likely been familiar with sketches and watercolour paintings of common botany. Nonetheless, it was very different to drawing photographic representations of feathered animals. This, coupled with her first pregnancy with John, must have proven to be a taxing challenge. Despite the stress of her new roles as both a mother and draughtswoman, she still spent hours meticulously practising the art of lithography, as taught by a fellow collaborator, Edward Lear [^6]. Finally, after 2 years of strenuous labour, her lavishly crafted plates were published in “A Century of Birds from the Himalaya Mountains” (1830-1832) accompanied by N. A. Vigors’ factful scientific explanations. Only days after the publication, Elizabeth gave birth to her first son, an adorable baby boy by the name of John Henry.
 <param ve-image 
-       title="Picus Brunifrons in “A Century of Birds from the Himalaya Mountains”" 
-       description="Lithograph by Elizabeth and John Gould, 1831 at Biodiversity Heritage Library." 
-       license="CC BY 2.0"
-       url="https://upload.wikimedia.org/wikipedia/commons/e/e1/A_century_of_birds_from_the_Himalaya_Mountains_%28TAB._LII%29_%289237264813%29.jpg">
+       title="Lophophorus Impeyanus in “A Century of Birds from the Himalaya Mountains”" 
+       description="Lithograph by Elizabeth and John Gould, 1831." 
+       license="public domain"
+       url="https://upload.wikimedia.org/wikipedia/commons/5/57/A_century_of_birds_from_the_Himalaya_Mountains_%28TAB._LX%29_%289240055086%29.jpg">
 
 “A Century of Birds from the Himalaya Mountains” was massively successful and highlighted Elizabeth’s attentive approach to the smallest of details, even when selecting the right pigments and brushes. The _Picus Brunifrons_ template is an excellent demonstration of the young woman’s talents, where she accurately replicated the finest details with only a single-haired brush [^4]. Shamefully, regardless of Elizabeth’s hours of intensive hard work, her name was notably absent from the title page. Her vigorous contributions only briefly acknowledged in a short credit on the lower left of each plate - "Drawn from nature by E. Gould" - but none featured her signature.
 <param ve-image 
        title="Picus Brunifrons in “A Century of Birds from the Himalaya Mountains”" 
-       description="Lithograph by Elizabeth and John Gould, 1831 at Biodiversity Heritage Library." 
-       license="CC BY 2.0"
+       description="Lithograph by Elizabeth and John Gould, 1831." 
+       license="public domain"
        url="https://upload.wikimedia.org/wikipedia/commons/e/e1/A_century_of_birds_from_the_Himalaya_Mountains_%28TAB._LII%29_%289237264813%29.jpg">
 
 Following the success of their first publication, the Gould couple immediately worked on a more ambitious collaboration in which they titled “The Birds of Europe” (1832-1837). This 448-plate publication required the couple to travel all over continental Europe and with each new expedition, Elizabeth’s artistic skills improved [^8]. In contrast to her previous work in “Century”, limited to drawing taxidermied specimens, for “The Birds of Europe”, Elizabeth could observe breathing, flying, animated birds. With her flourishing artistry, Elizabeth authentically captured the true colouring of their “soft parts” - eyes, neck wattles, skin - in which even the best taxidermy practices could not replicate. The authentic colouring, paired with her choices of more dynamic poses, allowed her designs to stand out from the sea of stiff poses that were favoured in this century.
