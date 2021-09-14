@@ -3,7 +3,7 @@
 <param ve-config 
        title="Elizabeth Gould (1804-1841)"
        author="Carina Chan"
-       banner="https://3.bp.blogspot.com/_UauoQ6hHTz8/S-Vo03kQIhI/AAAAAAAACpI/KHRe9A5f1c4/s400/1849+map+of+Ramsgate.JPG" 
+       banner="https://3.bp.blogspot.com/_UauoQ6hHTz8/S-Vo03kQIhI/AAAAAAAACpI/KHRe9A5f1c4/w1200-h630-p-k-no-nu/1849+map+of+Ramsgate.JPG" 
        layout="vertical"
        num-maps="3"
        num-images="10">
