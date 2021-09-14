@@ -3,7 +3,7 @@
 <param ve-config 
        title="Elizabeth Gould (1804-1841)"
        author="Carina Chan"
-       banner="https://i.imgur.com/KxPZt3m.jpeg" 
+       banner="https://i.imgur.com/pCvk1td.jpg" 
        layout="vertical"
        num-maps="3"
        num-images="10">
