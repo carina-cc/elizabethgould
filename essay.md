@@ -12,6 +12,7 @@
 <param ve-entity eid="Q5076521"> <!-- Charles Coxen -->
 <param ve-entity eid="Q4893186"> <!-- St James Church, Piccadilly -->
 <param ve-entity eid="Q309759"> <!-- Edward Lear -->
+<param ve-entity eid="Q332479"> <!-- Nicholas Aylward Vigors -->
 <param ve-entity eid="Q51455209"> <!-- A Century of Birds from the Himalaya Mountains -->
 <param ve-entity eid="Q51448070"> <!-- The Birds of Europe -->
 <param ve-entity eid="Q1035"> <!-- Charles Darwin -->
