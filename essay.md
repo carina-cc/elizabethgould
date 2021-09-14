@@ -4,7 +4,7 @@
        title="Elizabeth Gould (1804-1841)"
        author="Carina Chan"
        banner="https://www.nhm.ac.uk/content/dam/nhmwww/discover/john-gould/gould-lithograph-wood-partridge-full-width.jpg" 
-       layout="horizontal"
+       layout="vertical"
        num-maps="3"
        num-images="10">
 
