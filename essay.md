@@ -106,7 +106,7 @@ This was perhaps Elizabeth’s most exciting period in her life with such an est
 
 In 1840, John, Elizabeth and John Henry returned to familiar British soil with a new collection of exotic specimens and a fresh addition to the Gould family - baby Franklin [^1]. Even when reunited with the rest of her children after 2 long years of separation, Elizabeth could not abandon her work and spent her time carefully transferring her hand-crafted compositions onto stones. Tragically, she did not see the project to its completion as Elizabeth died on 15 August 1841 from a fatal contraction of puerperal fever, following the birth of her third daughter, Sarah [^4].
 <param ve-entity eid="Q746681">
-<param ve-map title="Death place of Elizabeth Gould" center="Q746681" zoom="10" prefer-geojson show-labels>
+<param ve-map title="Death place of Elizabeth Gould" center="Q746681" zoom="12" show-labels>
 
 Reportedly, John, devastated by the loss of his 37-year-old wife, memorialised her by naming 2 Australian birds in her honour - Mrs Gould’s Sunbird and the Gouldian Finch. He accompanied the commemoration with a thankful note, acknowledging Elizabeth’s utmost devotion to their family legacy [^9]. Ultimately, with the unfortunate premature death of his beloved wife, John would outsource a new upcoming artist by the name of Henry Richter to finish the rest of the book using Elizabeth’s remaining sketches and designs [^10].
 <param ve-image 
