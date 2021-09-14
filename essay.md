@@ -6,7 +6,7 @@
        banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/4/47/Bartholomeus_Johannes_van_Hove%2C_Het_Mauritshuis_te_Den_Haag.jpg" 
        layout="vertical">
 
-<param ve-entity eid="Q736439" title="Kent"> <!-- Ramsgate -->
+<param ve-entity eid="Q736439"> <!-- Ramsgate -->
 <param ve-entity eid="Q313787"> <!-- John Gould -->
 <param ve-entity eid="Q253875"> <!-- Elizabeth Gould -->
 <param ve-entity eid="Q5076521"> <!-- Charles Coxen -->
@@ -43,7 +43,7 @@ Again, with not much known about the courtship between the lovers, we can specul
        title="St James Church, Piccadilly" 
        eid="Q4893186"
        fill="#92086D">
-<param ve-map center="Q4893186" zoom="20">
+<param ve-map center="Q4893186" zoom="19">
 
 However, realistically, John was also “rescued” by Elizabeth. In the early stages of their married life, Elizabeth would often illustrate scientifically accurate images of novelty bird specimens that John prepared for his customers [^6]. Her work promoted her taxidermist husband’s business, which widely expanded his career contacts and allowed him access to the country’s leading naturalists. Thus, in 1830, when presented with a collection of Himalayan bird skins, he proposed a grand idea. He thought to publish a subscriber-paid book to showcase hand-painted lithographs of these rare birds and sell them to affluent collectors and the aforementioned naturalists. It was an ambitious idea, and John knew that his artistic capabilities were limited at best. Elizabeth was more than capable, equipped with valuable education in the arts from her youth. Though it seemed she was initially sceptical of the proposal, as she asked her husband who would transfer the plates to the stones. To this question, John replied, "Why you, of course!" [^7] and thus the couple’s first publication was born.
 <param ve-image 
@@ -93,22 +93,22 @@ For 5 exhausting years, Elizabeth dedicated hours upon hours to perfecting “Th
 Though the “Century” and “Birds of Europe” were impressive successes, the Gould’s were most celebrated for their work in “Birds of Australia” (1840-1848). This 7-volume publication was composed of 681 specimens, of which 84 were painted by Elizabeth herself [^6]. Similar to her previous work in the “Birds of Europe”, to deliver the highest quality depictions of the foreign specimens to their subscribers, she had to embark on a long journey to Australia to study their organic forms. Subsequently, the couple and their eldest son took off to explore the vast land on the other side of the planet. During their stay in the foreign country, they lived on Elizabeth’s brothers’ farm which later became their base of operations [^1].
 <param ve-image
        fit="contain"
-       title="Bouke's Grass-Parakeet (Euphema bourkii) in "Birds of Australia""
-       description="Illustrated by Elizabeth Gould for John Gould’s "Birds of Australia", 1972" 
+       title="Bouke's Grass-Parakeet (Euphema bourkii) in “Birds of Australia”"
+       description="Illustrated by Elizabeth Gould for John Gould’s “Birds of Australia”, 1972" 
        license="public domain"
        url="https://upload.wikimedia.org/wikipedia/commons/a/a5/Euphema_Bourkii_by_Elizabeth_Gould.jpg">
 
 This was perhaps Elizabeth’s most exciting period in her life with such an esteemed project in her hands, however, it may have also been her most distraughtly time. Correspondences in letters to her mother revealed that she carried a heavy burden when she left her home country. She sombrely documented her tough decision to leave her 3 youngest children - Charles, Eliza, and Louisa - back in England and concerns and worries constantly plagued her mind [^8]. Nevertheless, she had little time to entertain her doubts as she kept busy by preparing hundreds of sketches, drawings, and paintings of the colony’s native wildlife. The most recognised image she produced was that of the Fairy Wren. In her preliminary drawing for the lithographed plate, she confidently presented her signature technique of using soft and controlled pencil strokes to replicate the lifelike features of each specimen. Her attention to detail extended to her selection of watercolours for the pallet, ensuring that they would precisely represent Australia.
 <param ve-image 
        fit="contain"
-       title="Blue Wren (Malurus cyaneus) in "Birds of Australia""
-       description="Illustrated by Elizabeth Gould for John Gould’s "Birds of Australia", 1972"
+       title="Blue Wren (Malurus cyaneus) in “Birds of Australia”"
+       description="Illustrated by Elizabeth Gould for John Gould’s “Birds of Australia”, 1972"
        attribution="rawpixel (https://www.rawpixel.com/image/321165/free-illustration-image-blue-wren-gould)"
        license="public domain"
        url="https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/pd15-158-num.jpg?w=800&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=8539ca4f45990976634b541654947458">
 
 In 1840, John, Elizabeth and John Henry returned to familiar British soil with a new collection of exotic specimens and a fresh addition to the Gould family - baby Franklin [^1]. Even when reunited with the rest of her children after 2 long years of separation, Elizabeth could not abandon her work and spent her time carefully transferring her hand-crafted compositions onto stones. Tragically, she did not see the project to its completion as Elizabeth died on 15 August 1841 from a fatal contraction of puerperal fever, following the birth of her third daughter, Sarah [^4].
-<param ve-map center="Q746681" zoom="10" prefer-geojson>
+<param ve-map center="Q746681" zoom="12" prefer-geojson>
 
 Reportedly, John, devastated by the loss of his 37-year-old wife, memorialised her by naming 2 Australian birds in her honour - Mrs Gould’s Sunbird and the Gouldian Finch. He accompanied the commemoration with a thankful note, acknowledging Elizabeth’s utmost devotion to their family legacy [^9]. Ultimately, with the unfortunate premature death of his beloved wife, John would outsource a new upcoming artist by the name of Henry Richter to finish the rest of the book using Elizabeth’s remaining sketches and designs [^10].
 <param ve-image 
