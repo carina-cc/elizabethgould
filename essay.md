@@ -8,19 +8,19 @@
        num-maps="3"
        num-images="10">
 
-<param ve-entity title="Ramsgate" eid="Q736439">
-<param ve-entity title="John Gould" eid="Q313787" aliases="John">
-<param ve-entity title="Elizabeth Gould" eid="Q253875" aliases="Elizabeth">
-<param ve-entity title="Charles Coxen" eid="Q5076521"> 
-<param ve-entity title="St James Church, Piccadilly" eid="Q4893186">
-<param ve-entity title="Edward Lear" eid="Q309759"> 
-<param ve-entity title="N. A. Vigors'" eid="Q332479">
-<param ve-entity title="A Century of Birds from the Himalaya Mountains" eid="Q51455209" aliases="Century"> 
-<param ve-entity title="The Birds of Europe" eid="Q51448070" aliases="Birds of Europe"> 
-<param ve-entity title="Charles Darwin" eid="Q1035"> 
-<param ve-entity title="The Zoology of the Voyage of H.M.S. Beagle" eid="Q375946">
-<param ve-entity title="Birds of Australia" eid="Q967304"> 
-<param ve-entity title="Egham" eid="Q746681">
+<param ve-entity eid="Q736439"> <!-- Ramsgate -->
+<param ve-entity eid="Q313787"> <!-- John Gould -->
+<param ve-entity eid="Q253875"> <!-- Elizabeth Gould -->
+<param ve-entity eid="Q5076521"> <!-- Charles Coxen -->
+<param ve-entity eid="Q4893186"> <!-- St James Church, Piccadilly -->
+<param ve-entity eid="Q309759"> <!-- Edward Lear -->
+<param ve-entity eid="Q332479"> <!-- Nicholas Aylward Vigors -->
+<param ve-entity eid="Q51455209"> <!-- A Century of Birds from the Himalaya Mountains -->
+<param ve-entity eid="Q51448070"> <!-- The Birds of Europe -->
+<param ve-entity eid="Q1035"> <!-- Charles Darwin -->
+<param ve-entity eid="Q375946"> <!-- The Zoology of the Voyage of H.M.S. Beagle - Part III Birds -->
+<param ve-entity eid="Q967304"> <!-- Birds of Australia -->
+<param ve-entity eid="Q746681"> <!-- Egham, Surrey -->
 
 # Summary
 This is a sample visual essay demonstrating a few key features of a Visual Essay. Additional [Documentation](https://github.com/JSTOR-Labs/juncture/wiki) and [examples](https://jstor-labs.github.io/juncture-examples) are available for reference.
