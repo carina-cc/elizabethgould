@@ -27,24 +27,30 @@ This is a sample visual essay demonstrating a few key features of a Visual Essay
 # Main Essay
 
 On the 18th of July in 1804, in the seaside town known as Ramsgate, Mr Nicholas Coxen and Elizabeth Tomkins welcomed a baby girl into the world. She was one of the couple’s many children, though sadly only she and her 3 other brothers survived their childhood. Though information regarding the early life of the Coxen children is sparse, they were firmly middle class through links to the military and lived a life typical of the era [^1].The sons pursued careers as scientists or military personnel, whilst their only daughter rose to be a typical woman of her time with education in languages, music, and art [^2]. In spite of her pre-established destiny to be a mundane Victorian lady, she would exceed expectations and become a wonderfully skilful artist. She will contribute invaluably to the world of ornithology with her talents and inspire the next generation of ornithologists. She will be Elizabeth Gould.
-<param ve-map center="Q736439" zoom="10" prefer-geojson>
+<param ve-map center="Q736439" zoom="15" prefer-geojson>
 
 Some may find the family name “Gould” familiar, especially in ornithological circles, with association to titles such as “The Birdman” or “The Father of Australian Ornithology” who published some of the most famous ornithologic books of the 19th century [^3]. Most would remember the accomplished man as John Gould. He left a remarkable legacy of beautifully illustrated documentation of various animals across the globe. Yet, he was not the sole creditor for his prodigious work. He had the help of a talented partner, his wife Elizabeth, who supported and worked alongside him throughout his career.
 <param ve-image 
        fit="contain"
        title="John Gould" 
-       description="Lithograph by T. H. Maguire, 1849 courtesy of Wellcome Library, London" 
-       license="CC BY 2.0"
+       description="Lithograph by T. H. Maguire, 1849"
+       attribution="Wellcome Images (https://wellcomeimages.org/indexplus/image/V0002341.html)"
+       license="CC BY 4.0"
        url="https://upload.wikimedia.org/wikipedia/commons/1/1c/John_Gould._Lithograph_by_T._H._Maguire%2C_1849._Wellcome_L0013780.jpg">
        
 Again, with not much known about the courtship between the lovers, we can speculate it is likely they met through Elizabeth’s younger brother, Charles Coxen. At 22 years old, Elizabeth grew unsatisfied with her occupation as the governess to the 9-year-old daughter of the Chief of the Office of the King’s Proctor. From accounts in letters to her mother, it is said that she felt life was “miserably-wretched dull” [^4]. Thus, it is possible that she would have wanted an escape from her tedious labour and graduate into a life of domesticity. Some authors had even said that John Gould “rescued” [^5] her with their marriage on January 5, 1829, at St James Church, Piccadilly [^1].
-<param ve-map center="Q4893186" zoom="15">
+<param ve-entity 
+       title="St James Church, Piccadilly" eid="Q4893186"
+       fill="#92086D" 
+       marker-symbol="wedding">
+<param ve-map center="Q4893186" zoom="20">
 
 However, realistically, John was also “rescued” by Elizabeth. In the early stages of their married life, Elizabeth would often illustrate scientifically accurate images of novelty bird specimens that John prepared for his customers [^6]. Her work promoted her taxidermist husband’s business, which widely expanded his career contacts and allowed him access to the country’s leading naturalists. Thus, in 1830, when presented with a collection of Himalayan bird skins, he proposed a grand idea. He thought to publish a subscriber-paid book to showcase hand-painted lithographs of these rare birds and sell them to affluent collectors and the aforementioned naturalists. It was an ambitious idea, and John knew that his artistic capabilities were limited at best. Elizabeth was more than capable, equipped with valuable education in the arts from her youth. Though it seemed she was initially sceptical of the proposal, as she asked her husband who would transfer the plates to the stones. To this question, John replied, "Why you, of course!" [^7] and thus the couple’s first publication was born.
 <param ve-image 
        fit="contain"
        title="Cinclosoma erythrocephala in “A Century of Birds from the Himalaya Mountains”" 
        description="Illustrated by Elizabeth Gould for John Gould’s “A Century of Birds from the Himalaya Mountains”, 1831." 
+       attribution="Biodiversity Heritage Library (https://www.biodiversitylibrary.org/page/42203524)"
        license="public domain"
        url="https://upload.wikimedia.org/wikipedia/commons/e/e1/A_century_of_birds_from_the_Himalaya_Mountains_%28TAB._XVII%29_%289237224583%29.jpg">
 
@@ -52,7 +58,8 @@ There are no records of Elizabeth’s qualification as a draughtswoman, but she 
 <param ve-image 
        fit="contain"
        title="Himalayan Monal (Lophophorus impeyanus) in “A Century of Birds from the Himalaya Mountains”" 
-       description="Illustrated by Elizabeth Gould for John Gould’s “A Century of Birds from the Himalaya Mountains”, 1831." 
+       description="Illustrated by Elizabeth Gould for John Gould’s “A Century of Birds from the Himalaya Mountains”, 1831."
+       attribution="Biodiversity Heritage Library (https://www.biodiversitylibrary.org/page/42203694)"
        license="public domain"
        url="https://upload.wikimedia.org/wikipedia/commons/5/57/A_century_of_birds_from_the_Himalaya_Mountains_%28TAB._LX%29_%289240055086%29.jpg">
 
@@ -61,14 +68,16 @@ There are no records of Elizabeth’s qualification as a draughtswoman, but she 
        fit="contain"
        title="Picus brunifrons in “A Century of Birds from the Himalaya Mountains”" 
        description="Illustrated by Elizabeth Gould for John Gould’s “A Century of Birds from the Himalaya Mountains”, 1831." 
+       attribution="Biodiversity Heritage Library (https://www.biodiversitylibrary.org/page/42203662)"
        license="public domain"
        url="https://upload.wikimedia.org/wikipedia/commons/e/e1/A_century_of_birds_from_the_Himalaya_Mountains_%28TAB._LII%29_%289237264813%29.jpg">
 
 Following the success of their first publication, the Gould couple immediately worked on a more ambitious collaboration in which they titled “The Birds of Europe” (1832-1837). This 448-plate publication required the couple to travel all over continental Europe and with each new expedition, Elizabeth’s artistic skills improved [^8]. In contrast to her previous work in “Century”, limited to drawing taxidermied specimens, for “The Birds of Europe”, Elizabeth could observe breathing, flying, animated birds. With her flourishing artistry, Elizabeth authentically captured the true colouring of their “soft parts” - eyes, neck wattles, skin - in which even the best taxidermy practices could not replicate. The authentic colouring, paired with her choices of more dynamic poses, allowed her designs to stand out from the sea of stiff poses that were favoured in this century.
 <param ve-image 
        fit="contain"
-       title="Bald Eagle (Haliaeetus leucocephalus) in “The Birds of Europe - Vol II”" 
-       description="Illustrated by Elizabeth Gould for John Gould’s “The Birds of Europe - Vol II”, 1832." 
+       title="Merlin (Falco Aesalon) in “The Birds of Europe - Vol I”" 
+       description="Illustrated by Elizabeth Gould for John Gould’s “The Birds of Europe - Vol I”, 1837." 
+       attribution="Biodiversity Heritage Library (https://www.biodiversitylibrary.org/page/42174335)"
        license="public domain"
        url="https://upload.wikimedia.org/wikipedia/commons/a/a4/GouldBirdsEuropeIMerlin.jpg">
 
@@ -77,8 +86,9 @@ For 5 exhausting years, Elizabeth dedicated hours upon hours to perfecting “Th
        fit="contain"
        title="Darwin's Finches (Geospiza parvula) in “The Zoology of the Voyage of H.M.S. Beagle - Part III Birds”" 
        description="Illustrated by Elizabeth Gould for Charles Darwin’s “The Zoology of the Voyage of H.M.S. Beagle - Part III Birds”, 1832-1836" 
+       attribution="Biodiversity Heritage Library (https://www.biodiversitylibrary.org/page/14062582)" 
        license="public domain"
-       url="https://ia800308.us.archive.org/BookReader/BookReaderImages.php?id=zoologyofvoyageo03darw&itemPath=%2F7%2Fitems%2Fzoologyofvoyageo03darw&server=ia800308.us.archive.org&page=n268_w410">
+       url="https://live.staticflickr.com/8351/8429528713_8488cfc03b_b.jpg">
 
 Though the “Century” and “Birds of Europe” were impressive successes, the Gould’s were most celebrated for their work in “Birds of Australia” (1840-1848). This 7-volume publication was composed of 681 specimens, of which 84 were painted by Elizabeth herself [^6]. Similar to her previous work in the “Birds of Europe”, to deliver the highest quality depictions of the foreign specimens to their subscribers, she had to embark on a long journey to Australia to study their organic forms. Subsequently, the couple and their eldest son took off to explore the vast land on the other side of the planet. During their stay in the foreign country, they lived on Elizabeth’s brothers’ farm which later became their base of operations [^1].
 <param ve-image
@@ -93,6 +103,7 @@ This was perhaps Elizabeth’s most exciting period in her life with such an est
        fit="contain"
        title="Blue Wren (Malurus cyaneus) in "Birds of Australia""
        description="Illustrated by Elizabeth Gould for John Gould’s "Birds of Australia", 1972"
+       attribution="rawpixel (https://www.rawpixel.com/image/321165/free-illustration-image-blue-wren-gould)"
        license="public domain"
        url="https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/pd15-158-num.jpg?w=800&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=8539ca4f45990976634b541654947458">
 
@@ -103,7 +114,7 @@ Reportedly, John, devastated by the loss of his 37-year-old wife, memorialised h
 <param ve-image 
        fit="contain"
        title="Gouldian Finch (Chloebia gouldiae)"
-       description="Photographed by Martin Pot, 16 Feb. 2008"
+       attribution="Photographed by Martin Pot, 16 Feb. 2008"
        license="CC BY-SA 3.0"
        url="https://upload.wikimedia.org/wikipedia/commons/3/3e/Male_adult_Gouldian_Finch.jpg">
 
@@ -112,6 +123,7 @@ Elizabeth Gould was a woman of her time, raised to be a loving wife and doting m
        fit="contain"
        title="Elizabeth Gould holding an Australian cockatiel (Nymphicus hollandicus)"
        description="Oil painting by unknown artist"
+       attribution="National Library of Australia (http://nla.gov.au/nla.obj-150672913)"
        license="public domain"
        url="https://upload.wikimedia.org/wikipedia/commons/e/e5/Elizabeth_Gould.jpg">
 
