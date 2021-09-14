@@ -3,7 +3,7 @@
 <param ve-config 
        title="Elizabeth Gould (1804-1841)"
        author="Carina Chan"
-       banner="https://www.nhm.ac.uk/content/dam/nhmwww/discover/john-gould/gould-lithograph-wood-partridge-full-width.jpg" 
+       banner="https://i.imgur.com/KxPZt3m.jpeg" 
        layout="vertical"
        num-maps="3"
        num-images="10">
