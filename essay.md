@@ -3,8 +3,8 @@
 <param ve-config 
        title="Elizabeth Gould (1804-1841)"
        author="Carina Chan"
-       banner="https://3.bp.blogspot.com/_UauoQ6hHTz8/S-Vo03kQIhI/AAAAAAAACpI/KHRe9A5f1c4/w1200-h630-p-k-no-nu/1849+map+of+Ramsgate.JPG" 
-       layout="vertical"
+       banner="https://www.nhm.ac.uk/content/dam/nhmwww/discover/john-gould/gould-lithograph-wood-partridge-full-width.jpg" 
+       layout="horizontal"
        num-maps="3"
        num-images="10">
 
