@@ -6,10 +6,18 @@
        banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/4/47/Bartholomeus_Johannes_van_Hove%2C_Het_Mauritshuis_te_Den_Haag.jpg" 
        layout="vertical">
 
-<param ve-entity eid="Q253875"> <!-- Cinclosoma Erythrocephala -->
-<param ve-entity eid="Q253875"> <!-- Lophophorus Impeyanus -->
-<param ve-entity eid="Q253875"> <!-- Picus Brunifrons -->
+<param ve-entity eid="Q736439"> <!-- Ramsgate -->
+<param ve-entity eid="Q313787"> <!-- John Gould -->
 <param ve-entity eid="Q253875"> <!-- Elizabeth Gould -->
+<param ve-entity eid="Q5076521"> <!-- Charles Coxen -->
+<param ve-entity eid="Q4893186"> <!-- St James Church, Piccadilly -->
+<param ve-entity eid="Q309759"> <!-- Edward Lear -->
+<param ve-entity eid="Q51455209"> <!-- A Century of Birds from the Himalaya Mountains -->
+<param ve-entity eid="Q51448070"> <!-- The Birds of Europe -->
+<param ve-entity eid="Q1035"> <!-- Charles Darwin -->
+<param ve-entity eid="Q375946"> <!-- The Zoology of the Voyage of H.M.S. Beagle - Part III Birds -->
+<param ve-entity eid="Q967304"> <!-- Birds of Australia -->
+<param ve-entity eid="Q746681"> <!-- Egham, Surrey -->
 
 # Summary
 This is a sample visual essay demonstrating a few key features of a Visual Essay. Additional [Documentation](https://github.com/JSTOR-Labs/juncture/wiki) and [examples](https://jstor-labs.github.io/juncture-examples) are available for reference.
@@ -32,6 +40,7 @@ Again, with not much known about the courtship between the lovers, we can specul
 
 However, realistically, John was also “rescued” by Elizabeth. In the early stages of their married life, Elizabeth would often illustrate scientifically accurate images of novelty bird specimens that John prepared for his customers [^6]. Her work promoted her taxidermist husband’s business, which widely expanded his career contacts and allowed him access to the country’s leading naturalists. Thus, in 1830, when presented with a collection of Himalayan bird skins, he proposed a grand idea. He thought to publish a subscriber-paid book to showcase hand-painted lithographs of these rare birds and sell them to affluent collectors and the aforementioned naturalists. It was an ambitious idea, and John knew that his artistic capabilities were limited at best. Elizabeth was more than capable, equipped with valuable education in the arts from her youth. Though it seemed she was initially sceptical of the proposal, as she asked her husband who would transfer the plates to the stones. To this question, John replied, "Why you, of course!" [^7] and thus the couple’s first publication was born.
 <param ve-image 
+       fit="contain"
        title="Cinclosoma erythrocephala in “A Century of Birds from the Himalaya Mountains”" 
        description="Illustrated by Elizabeth Gould for John Gould’s “A Century of Birds from the Himalaya Mountains”, 1831." 
        license="public domain"
@@ -39,6 +48,7 @@ However, realistically, John was also “rescued” by Elizabeth. In the early s
 
 There are no records of Elizabeth’s qualification as a draughtswoman, but she would have most likely been familiar with sketches and watercolour paintings of common botany. Nonetheless, it was very different to drawing photographic representations of feathered animals. This, coupled with her first pregnancy with John, must have proven to be a taxing challenge. Despite the stress of her new roles as both a mother and draughtswoman, she still spent hours meticulously practising the art of lithography, as taught by a fellow collaborator, Edward Lear [^6]. Finally, after 2 years of strenuous labour, her lavishly crafted plates were published in “A Century of Birds from the Himalaya Mountains” (1830-1832) accompanied by N. A. Vigors’ factful scientific explanations. Only days after the publication, Elizabeth gave birth to her first son, an adorable baby boy by the name of John Henry.
 <param ve-image 
+       fit="contain"
        title="Himalayan Monal (Lophophorus impeyanus) in “A Century of Birds from the Himalaya Mountains”" 
        description="Illustrated by Elizabeth Gould for John Gould’s “A Century of Birds from the Himalaya Mountains”, 1831." 
        license="public domain"
@@ -46,6 +56,7 @@ There are no records of Elizabeth’s qualification as a draughtswoman, but she 
 
 “A Century of Birds from the Himalaya Mountains” was massively successful and highlighted Elizabeth’s attentive approach to the smallest of details, even when selecting the right pigments and brushes. The _Picus Brunifrons_ template is an excellent demonstration of the young woman’s talents, where she accurately replicated the finest details with only a single-haired brush [^4]. Shamefully, regardless of Elizabeth’s hours of intensive hard work, her name was notably absent from the title page. Her vigorous contributions only briefly acknowledged in a short credit on the lower left of each plate - "Drawn from nature by E. Gould" - but none featured her signature.
 <param ve-image 
+       fit="contain"
        title="Picus brunifrons in “A Century of Birds from the Himalaya Mountains”" 
        description="Illustrated by Elizabeth Gould for John Gould’s “A Century of Birds from the Himalaya Mountains”, 1831." 
        license="public domain"
@@ -53,6 +64,7 @@ There are no records of Elizabeth’s qualification as a draughtswoman, but she 
 
 Following the success of their first publication, the Gould couple immediately worked on a more ambitious collaboration in which they titled “The Birds of Europe” (1832-1837). This 448-plate publication required the couple to travel all over continental Europe and with each new expedition, Elizabeth’s artistic skills improved [^8]. In contrast to her previous work in “Century”, limited to drawing taxidermied specimens, for “The Birds of Europe”, Elizabeth could observe breathing, flying, animated birds. With her flourishing artistry, Elizabeth authentically captured the true colouring of their “soft parts” - eyes, neck wattles, skin - in which even the best taxidermy practices could not replicate. The authentic colouring, paired with her choices of more dynamic poses, allowed her designs to stand out from the sea of stiff poses that were favoured in this century.
 <param ve-image 
+       fit="contain"
        title="Bald Eagle (Haliaeetus leucocephalus) in “The Birds of Europe - Vol II”" 
        description="Illustrated by Elizabeth Gould for John Gould’s “The Birds of Europe - Vol II”, 1832." 
        license="public domain"
@@ -60,13 +72,15 @@ Following the success of their first publication, the Gould couple immediately w
 
 For 5 exhausting years, Elizabeth dedicated hours upon hours to perfecting “The Birds of Europe”, but her role as a mother was not to be forgotten. During this time, she also gave birth to 5 more children, though only 3 survived infancy [^8]. Yet again, despite Elizabeth’s tireless efforts, her award came as a small credit in the lower corner of each plate. However, this time the credit not only bore Elizabeth’s initials but John’s as well. He credited his wife for the drawings and lithographs but attributed the "sketches and designs" to his labour. Contrastingly, multiple critics have suggested John did little more than make minor changes to or simply just approved Elizabeth’s sketches [^4]. It was also during this hectic time that a young Charles Darwin recognised Elizabeth’s creative gift and commissioned her to produce 50 lithographic plates for his publication, “The Zoology of the Voyage of H.M.S. Beagle - Part III Birds” [^6]. Again, Elizabeth’s name was absent from these plates.
 <param ve-image 
+       fit="contain"
        title="Darwin's Finches (Geospiza parvula) in “The Zoology of the Voyage of H.M.S. Beagle - Part III Birds”" 
        description="Illustrated by Elizabeth Gould for Charles Darwin’s “The Zoology of the Voyage of H.M.S. Beagle - Part III Birds”, 1832-1836" 
        license="public domain"
        url="https://ia800308.us.archive.org/BookReader/BookReaderImages.php?id=zoologyofvoyageo03darw&itemPath=%2F7%2Fitems%2Fzoologyofvoyageo03darw&server=ia800308.us.archive.org&page=n268_w410">
 
 Though the “Century” and “Birds of Europe” were impressive successes, the Gould’s were most celebrated for their work in “Birds of Australia” (1840-1848). This 7-volume publication was composed of 681 specimens, of which 84 were painted by Elizabeth herself [^6]. Similar to her previous work in the “Birds of Europe”, to deliver the highest quality depictions of the foreign specimens to their subscribers, she had to embark on a long journey to Australia to study their organic forms. Subsequently, the couple and their eldest son took off to explore the vast land on the other side of the planet. During their stay in the foreign country, they lived on Elizabeth’s brothers’ farm which later became their base of operations [^1].
-<param ve-image 
+<param ve-image
+       fit="contain"
        title="Bouke's Grass-Parakeet (Euphema bourkii) in "Birds of Australia""
        description="Illustrated by Elizabeth Gould for John Gould’s "Birds of Australia", 1972" 
        license="public domain"
@@ -74,6 +88,7 @@ Though the “Century” and “Birds of Europe” were impressive successes, th
 
 This was perhaps Elizabeth’s most exciting period in her life with such an esteemed project in her hands, however, it may have also been her most distraughtly time. Correspondences in letters to her mother revealed that she carried a heavy burden when she left her home country. She sombrely documented her tough decision to leave her 3 youngest children - Charles, Eliza, and Louisa - back in England and concerns and worries constantly plagued her mind [^8]. Nevertheless, she had little time to entertain her doubts as she kept busy by preparing hundreds of sketches, drawings, and paintings of the colony’s native wildlife. The most recognised image she produced was that of the Fairy Wren. In her preliminary drawing for the lithographed plate, she confidently presented her signature technique of using soft and controlled pencil strokes to replicate the lifelike features of each specimen. Her attention to detail extended to her selection of watercolours for the pallet, ensuring that they would precisely represent Australia.
 <param ve-image 
+       fit="contain"
        title="Blue Wren (Malurus cyaneus) in "Birds of Australia""
        description="Illustrated by Elizabeth Gould for John Gould’s "Birds of Australia", 1972"
        license="public domain"
@@ -83,6 +98,7 @@ In 1840, John, Elizabeth and John Henry returned to familiar British soil with a
 
 Reportedly, John, devastated by the loss of his 37-year-old wife, memorialised her by naming 2 Australian birds in her honour - Mrs Gould’s Sunbird and the Gouldian Finch. He accompanied the commemoration with a thankful note, acknowledging Elizabeth’s utmost devotion to their family legacy [^9]. Ultimately, with the unfortunate premature death of his beloved wife, John would outsource a new upcoming artist by the name of Henry Richter to finish the rest of the book using Elizabeth’s remaining sketches and designs [^10].
 <param ve-image 
+       fit="contain"
        title="Gouldian Finch (Chloebia gouldiae)"
        description="Photographed by Martin Pot, 16 Feb. 2008"
        license="CC BY-SA 3.0"
@@ -90,6 +106,7 @@ Reportedly, John, devastated by the loss of his 37-year-old wife, memorialised h
 
 Elizabeth Gould was a woman of her time, raised to be a loving wife and doting mother, but that is not to discredit her for being an extraordinary artist who contributed many landmark pieces in Victorian ornithology. Though eclipsed by the glory of her husband’s name, it is important to note that she was also living in a patriarchal society where that was the expected norm. Thus, it would be prejudiced to judge her story through our 21st-century sentiments. Instead of painting her as an oppressed feminine figure of history, we should remember her as an artistically adept maid of Kent, a strong companion to her husband and a caring mother to her children.
 <param ve-image 
+       fit="contain"
        title="Elizabeth Gould holding an Australian cockatiel (Nymphicus hollandicus)"
        description="Oil painting by unknown artist"
        license="public domain"
