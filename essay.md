@@ -22,11 +22,6 @@
 <param ve-entity eid="Q967304"> <!-- Birds of Australia -->
 <param ve-entity eid="Q746681"> <!-- Egham, Surrey -->
 
-# Summary
-This is a sample visual essay demonstrating a few key features of a Visual Essay. Additional [Documentation](https://github.com/JSTOR-Labs/juncture/wiki) and [examples](https://jstor-labs.github.io/juncture-examples) are available for reference.
-
-       
-# Main Essay
 
 On the 18th of July in 1804, in the seaside town known as Ramsgate, Mr Nicholas Coxen and Elizabeth Tomkins welcomed a baby girl into the world. She was one of the couple’s many children, though sadly only she and her three other brothers survived their childhood. Though information regarding the early life of the Coxen children is sparse, they were firmly middle class through links to the military and lived a life typical of the era [^1].The sons pursued careers as scientists or military personnel, whilst their only daughter rose to be a typical woman of her time with education in languages, music, and art [^2]. In spite of her pre-established destiny to be a mundane Victorian lady, she would exceed expectations and become a wonderfully skilful artist. She will contribute invaluably to the world of ornithology with her talents and inspire the next generation of ornithologists. She will be Elizabeth Gould.
 <param ve-map title="Birth place of Elizabeth Gould" center="Q736439" zoom="12" prefer-geojson show-labels>
