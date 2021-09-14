@@ -6,7 +6,7 @@
        banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/4/47/Bartholomeus_Johannes_van_Hove%2C_Het_Mauritshuis_te_Den_Haag.jpg" 
        layout="vertical">
 
-<param ve-entity eid="Q736439"> <!-- Ramsgate -->
+<param ve-entity eid="Q736439" title="Kent"> <!-- Ramsgate -->
 <param ve-entity eid="Q313787"> <!-- John Gould -->
 <param ve-entity eid="Q253875"> <!-- Elizabeth Gould -->
 <param ve-entity eid="Q5076521"> <!-- Charles Coxen -->
@@ -27,7 +27,7 @@ This is a sample visual essay demonstrating a few key features of a Visual Essay
 # Main Essay
 
 On the 18th of July in 1804, in the seaside town known as Ramsgate, Mr Nicholas Coxen and Elizabeth Tomkins welcomed a baby girl into the world. She was one of the couple’s many children, though sadly only she and her 3 other brothers survived their childhood. Though information regarding the early life of the Coxen children is sparse, they were firmly middle class through links to the military and lived a life typical of the era [^1].The sons pursued careers as scientists or military personnel, whilst their only daughter rose to be a typical woman of her time with education in languages, music, and art [^2]. In spite of her pre-established destiny to be a mundane Victorian lady, she would exceed expectations and become a wonderfully skilful artist. She will contribute invaluably to the world of ornithology with her talents and inspire the next generation of ornithologists. She will be Elizabeth Gould.
-<param ve-map center="Q736439" zoom="15" prefer-geojson>
+<param ve-map center="Q736439" zoom="12" prefer-geojson>
 
 Some may find the family name “Gould” familiar, especially in ornithological circles, with association to titles such as “The Birdman” or “The Father of Australian Ornithology” who published some of the most famous ornithologic books of the 19th century [^3]. Most would remember the accomplished man as John Gould. He left a remarkable legacy of beautifully illustrated documentation of various animals across the globe. Yet, he was not the sole creditor for his prodigious work. He had the help of a talented partner, his wife Elizabeth, who supported and worked alongside him throughout his career.
 <param ve-image 
@@ -40,9 +40,9 @@ Some may find the family name “Gould” familiar, especially in ornithological
        
 Again, with not much known about the courtship between the lovers, we can speculate it is likely they met through Elizabeth’s younger brother, Charles Coxen. At 22 years old, Elizabeth grew unsatisfied with her occupation as the governess to the 9-year-old daughter of the Chief of the Office of the King’s Proctor. From accounts in letters to her mother, it is said that she felt life was “miserably-wretched dull” [^4]. Thus, it is possible that she would have wanted an escape from her tedious labour and graduate into a life of domesticity. Some authors had even said that John Gould “rescued” [^5] her with their marriage on January 5, 1829, at St James Church, Piccadilly [^1].
 <param ve-entity 
-       title="St James Church, Piccadilly" eid="Q4893186"
-       fill="#92086D" 
-       marker-symbol="wedding">
+       title="St James Church, Piccadilly" 
+       eid="Q4893186"
+       fill="#92086D">
 <param ve-map center="Q4893186" zoom="20">
 
 However, realistically, John was also “rescued” by Elizabeth. In the early stages of their married life, Elizabeth would often illustrate scientifically accurate images of novelty bird specimens that John prepared for his customers [^6]. Her work promoted her taxidermist husband’s business, which widely expanded his career contacts and allowed him access to the country’s leading naturalists. Thus, in 1830, when presented with a collection of Himalayan bird skins, he proposed a grand idea. He thought to publish a subscriber-paid book to showcase hand-painted lithographs of these rare birds and sell them to affluent collectors and the aforementioned naturalists. It was an ambitious idea, and John knew that his artistic capabilities were limited at best. Elizabeth was more than capable, equipped with valuable education in the arts from her youth. Though it seemed she was initially sceptical of the proposal, as she asked her husband who would transfer the plates to the stones. To this question, John replied, "Why you, of course!" [^7] and thus the couple’s first publication was born.
@@ -125,7 +125,7 @@ Elizabeth Gould was a woman of her time, raised to be a loving wife and doting m
        description="Oil painting by unknown artist"
        attribution="National Library of Australia (http://nla.gov.au/nla.obj-150672913)"
        license="public domain"
-       url="https://upload.wikimedia.org/wikipedia/commons/e/e5/Elizabeth_Gould.jpg">
+       url="https://blog.biodiversitylibrary.org/wp-content/uploads/sites/4/2019/02/nla.obj-150672913-1-716x1024.jpg">
 
 # References
 
