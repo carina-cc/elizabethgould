@@ -27,6 +27,7 @@ This is a sample visual essay demonstrating a few key features of a Visual Essay
 # Main Essay
 
 On the 18th of July in 1804, in the seaside town known as Ramsgate, Mr Nicholas Coxen and Elizabeth Tomkins welcomed a baby girl into the world. She was one of the couple’s many children, though sadly only she and her 3 other brothers survived their childhood. Though information regarding the early life of the Coxen children is sparse, they were firmly middle class through links to the military and lived a life typical of the era [^1].The sons pursued careers as scientists or military personnel, whilst their only daughter rose to be a typical woman of her time with education in languages, music, and art [^2]. In spite of her pre-established destiny to be a mundane Victorian lady, she would exceed expectations and become a wonderfully skilful artist. She will contribute invaluably to the world of ornithology with her talents and inspire the next generation of ornithologists. She will be Elizabeth Gould.
+<param ve-map center="Q736439" zoom="10" prefer-geojson>
 
 Some may find the family name “Gould” familiar, especially in ornithological circles, with association to titles such as “The Birdman” or “The Father of Australian Ornithology” who published some of the most famous ornithologic books of the 19th century [^3]. Most would remember the accomplished man as John Gould. He left a remarkable legacy of beautifully illustrated documentation of various animals across the globe. Yet, he was not the sole creditor for his prodigious work. He had the help of a talented partner, his wife Elizabeth, who supported and worked alongside him throughout his career.
 <param ve-image 
@@ -37,6 +38,7 @@ Some may find the family name “Gould” familiar, especially in ornithological
        url="https://upload.wikimedia.org/wikipedia/commons/1/1c/John_Gould._Lithograph_by_T._H._Maguire%2C_1849._Wellcome_L0013780.jpg">
        
 Again, with not much known about the courtship between the lovers, we can speculate it is likely they met through Elizabeth’s younger brother, Charles Coxen. At 22 years old, Elizabeth grew unsatisfied with her occupation as the governess to the 9-year-old daughter of the Chief of the Office of the King’s Proctor. From accounts in letters to her mother, it is said that she felt life was “miserably-wretched dull” [^4]. Thus, it is possible that she would have wanted an escape from her tedious labour and graduate into a life of domesticity. Some authors had even said that John Gould “rescued” [^5] her with their marriage on January 5, 1829, at St James Church, Piccadilly [^1].
+<param ve-map center="Q4893186" zoom="15">
 
 However, realistically, John was also “rescued” by Elizabeth. In the early stages of their married life, Elizabeth would often illustrate scientifically accurate images of novelty bird specimens that John prepared for his customers [^6]. Her work promoted her taxidermist husband’s business, which widely expanded his career contacts and allowed him access to the country’s leading naturalists. Thus, in 1830, when presented with a collection of Himalayan bird skins, he proposed a grand idea. He thought to publish a subscriber-paid book to showcase hand-painted lithographs of these rare birds and sell them to affluent collectors and the aforementioned naturalists. It was an ambitious idea, and John knew that his artistic capabilities were limited at best. Elizabeth was more than capable, equipped with valuable education in the arts from her youth. Though it seemed she was initially sceptical of the proposal, as she asked her husband who would transfer the plates to the stones. To this question, John replied, "Why you, of course!" [^7] and thus the couple’s first publication was born.
 <param ve-image 
@@ -54,7 +56,7 @@ There are no records of Elizabeth’s qualification as a draughtswoman, but she 
        license="public domain"
        url="https://upload.wikimedia.org/wikipedia/commons/5/57/A_century_of_birds_from_the_Himalaya_Mountains_%28TAB._LX%29_%289240055086%29.jpg">
 
-“A Century of Birds from the Himalaya Mountains” was massively successful and highlighted Elizabeth’s attentive approach to the smallest of details, even when selecting the right pigments and brushes. The _Picus Brunifrons_ template is an excellent demonstration of the young woman’s talents, where she accurately replicated the finest details with only a single-haired brush [^4]. Shamefully, regardless of Elizabeth’s hours of intensive hard work, her name was notably absent from the title page. Her vigorous contributions only briefly acknowledged in a short credit on the lower left of each plate - "Drawn from nature by E. Gould" - but none featured her signature.
+“A Century of Birds from the Himalaya Mountains” was massively successful and highlighted Elizabeth’s attentive approach to the smallest of details, even when selecting the right pigments and brushes. The _Picus Brunifrons_ template is an excellent demonstration of the young woman’s talents, where she accurately replicated the finest details with only a single-haired brush [^4]. Shamefully, regardless of Elizabeth’s hours of intensive hard work, her name was notably absent from the title page. Her vigorous contributions only briefly acknowledged in a short credit on the lower left of each plate - <span data-mouseover-image-zoomto="297,2194,437,342"> "Drawn from nature by E. Gould" </span> - but none featured her signature.
 <param ve-image 
        fit="contain"
        title="Picus brunifrons in “A Century of Birds from the Himalaya Mountains”" 
@@ -95,6 +97,7 @@ This was perhaps Elizabeth’s most exciting period in her life with such an est
        url="https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/pd15-158-num.jpg?w=800&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=8539ca4f45990976634b541654947458">
 
 In 1840, John, Elizabeth and John Henry returned to familiar British soil with a new collection of exotic specimens and a fresh addition to the Gould family - baby Franklin [^1]. Even when reunited with the rest of her children after 2 long years of separation, Elizabeth could not abandon her work and spent her time carefully transferring her hand-crafted compositions onto stones. Tragically, she did not see the project to its completion as Elizabeth died on 15 August 1841 from a fatal contraction of puerperal fever, following the birth of her third daughter, Sarah [^4].
+<param ve-map center="Q746681" zoom="10" prefer-geojson>
 
 Reportedly, John, devastated by the loss of his 37-year-old wife, memorialised her by naming 2 Australian birds in her honour - Mrs Gould’s Sunbird and the Gouldian Finch. He accompanied the commemoration with a thankful note, acknowledging Elizabeth’s utmost devotion to their family legacy [^9]. Ultimately, with the unfortunate premature death of his beloved wife, John would outsource a new upcoming artist by the name of Henry Richter to finish the rest of the book using Elizabeth’s remaining sketches and designs [^10].
 <param ve-image 
@@ -111,12 +114,6 @@ Elizabeth Gould was a woman of her time, raised to be a loving wife and doting m
        description="Oil painting by unknown artist"
        license="public domain"
        url="https://upload.wikimedia.org/wikipedia/commons/e/e5/Elizabeth_Gould.jpg">
-
-## Map
-
-The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various 
-literary treatments. In 2006, the Dutch public selected it as the most beautiful painting in the Netherlands.
-<param ve-map center="Q36600" zoom="11" prefer-geojson>
 
 # References
 
