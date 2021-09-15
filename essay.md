@@ -125,7 +125,7 @@ Elizabeth Gould was a woman of her time, raised to be a loving wife and doting m
 # References
 
 [^1]: ["Elizabeth (Coxen) Gould (1804 - 1841)." _WikiTree_.  WikiTree Community, 5 Nov 2018. Web. Accessed on 21 Jun. 2021](https://www.wikitree.com/wiki/Coxen-86)
-[^2]: [Castellucci, Adria. “Elizabeth Gould: working wife, Victorian mother.” _The Australian Museum_. The Australian Museum, n.d. Web.] Accessed on 1 Jul. 2021(https://australian.museum/learn/collections/museum-archives-library/john-gould/elizabeth-gould-1804-1841/working-wife-and-mother/)
+[^2]: [Castellucci, Adria. “Elizabeth Gould: working wife, Victorian mother.” _The Australian Museum_. The Australian Museum, n.d. Web.](https://australian.museum/learn/collections/museum-archives-library/john-gould/elizabeth-gould-1804-1841/working-wife-and-mother/) Accessed on 1 Jul. 2021
 [^3]: [“John Gould.” _National Portrait Gallery_. Australian National Portrait Gallery, n.d. Web. Accessed on 1 Jul. 2021](https://www.portrait.gov.au/people/john-gould-1804)
 [^4]: [Ashley, Melissa. “Elizabeth Gould.” _The University of Kansas_. The University of Kansas Libraries, n.d. Web. Accessed on 21 Jun. 2021](https://exhibits.lib.ku.edu/exhibits/show/gould/about/elizabeth_gould)
 [^5]: [Russel, Roslyn. _The Business of Nature: John Gould and Australia_. Canberra: The National Library of Australia, 2011. _Google Books_. Web. Accessed on 8 Sep. 2021](https://books.google.co.uk/books?id=71qYuhz9FM8C&lpg=PP1&pg=PA11#v=onepage&q&f=false)
