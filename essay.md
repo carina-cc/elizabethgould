@@ -23,7 +23,7 @@
 <param ve-entity eid="Q746681"> <!-- Egham, Surrey -->
 
 
-On the 18th of July in 1804, in the seaside town known as Ramsgate, Mr Nicholas Coxen and Elizabeth Tomkins welcomed a baby girl into the world. She was one of the couple’s many children, though sadly only she and her three other brothers survived their childhood. Though information regarding the early life of the Coxen children is sparse, they were firmly middle class through links to the military and lived a life typical of the era [^1].The sons pursued careers as scientists or military personnel, whilst their only daughter rose to be a typical woman of her time with education in languages, music, and art [^2]. In spite of her pre-established destiny to be a mundane Victorian lady, she would exceed expectations and become a wonderfully skilful artist. She will contribute invaluably to the world of ornithology with her talents and inspire the next generation of ornithologists. She will be Elizabeth Gould.
+On the 18th of July in 1804, in the seaside town of Ramsgate, Mr Nicholas Coxen and Elizabeth Coxen (nee Tomkins) welcomed a baby girl into the world. She was one of the couple’s many children, though sadly only she and three brothers survived their childhood. Though information regarding the early life of the Coxen children is sparse, they were "firmly middle class" through "links to the military" and we can imagine that she lived a typical life fitting for the era [^1].The sons pursued careers as scientists or military personnel, whilst Elizabeth studied subjects that were typical for women of her class and age, including languages, music, and art [^2]. In spite of her relatively ordinary upbringing, she would exceed expectations and become a wonderfully skilful artist. She will contribute invaluably to the world of ornithology with her talents and inspire the next generation of ornithologists. She will be Elizabeth Gould.
 <param ve-map title="Birth place of Elizabeth Gould" center="Q736439" zoom="12" prefer-geojson show-labels>
 
 Some may find the family name “Gould” familiar, especially in ornithological circles, with association to titles such as “The Birdman” or “The Father of Australian Ornithology” who published some of the most famous ornithologic books of the 19th century [^3]. Most would remember the accomplished man as John Gould. He left a remarkable legacy of beautifully illustrated documentation of various animals across the globe. Yet, he was not the sole creditor for his prodigious work. He had the help of a talented partner, his wife Elizabeth, who supported and worked alongside him throughout his career.
@@ -36,8 +36,14 @@ Some may find the family name “Gould” familiar, especially in ornithological
        url="https://upload.wikimedia.org/wikipedia/commons/1/1c/John_Gould._Lithograph_by_T._H._Maguire%2C_1849._Wellcome_L0013780.jpg">
        
 Again, with not much known about the courtship between the lovers, we can speculate it is likely they met through Elizabeth’s younger brother, Charles Coxen. At 22 years old, Elizabeth grew unsatisfied with her occupation as the governess to the 9-year-old daughter of the Chief of the Office of the King’s Proctor. From accounts in letters to her mother, it is said that she felt life was “miserably-wretched dull” [^4]. Thus, it is possible that she would have wanted an escape from her tedious labour and graduate into a life of domesticity. Some authors had even said that John Gould “rescued” [^5] her with their marriage on January 5, 1829, at St James's Church, Piccadilly [^1].
-<param ve-entity eid="Q4893186">
-<param ve-map title="John and Elizabeth Gould's place of marriage" center="Q4893186" zoom="18" show-labels>
+<param ve-image 
+       fit="contain"
+       title="The Governess" 
+       description="Painted by Rebecca Solomon, c. 1851" 
+       attribution="Jewish Women's Archive (https://jwa.org/media/rebecca-solomon-governess)"
+       license="public domain"
+       url="https://cdn.jwa.org/sites/default/files/mediaobjects/rebecca_solomon_-_thegoverness.jpg">
+
 
 However, realistically, John was also “rescued” by Elizabeth. In the early stages of their married life, Elizabeth would often illustrate scientifically accurate images of novelty bird specimens that John prepared for his customers [^6]. Her work promoted her taxidermist husband’s business, which widely expanded his career contacts and allowed him access to the country’s leading naturalists. Thus, in 1830, when presented with a collection of Himalayan bird skins, he proposed a grand idea. He thought to publish a subscriber-paid book to showcase hand-painted lithographs of these rare birds and sell them to affluent collectors and the aforementioned naturalists. It was an ambitious idea, and John knew that his artistic capabilities were limited at best. Elizabeth was more than capable, equipped with valuable education in the arts from her youth. Though it seemed she was initially sceptical of the proposal, as she asked her husband who would transfer the plates to the stones. To this question, John replied, "Why you, of course!" [^7] and thus the couple’s first publication was born.
 <param ve-image 
@@ -48,7 +54,7 @@ However, realistically, John was also “rescued” by Elizabeth. In the early s
        license="public domain"
        url="https://upload.wikimedia.org/wikipedia/commons/e/e1/A_century_of_birds_from_the_Himalaya_Mountains_%28TAB._XVII%29_%289237224583%29.jpg">
 
-There are no records of Elizabeth’s qualification as a draughtswoman, but she would have most likely been familiar with sketches and watercolour paintings of common botany. Nonetheless, it was very different to drawing photographic representations of feathered animals. This, coupled with her first pregnancy with John, must have proven to be a taxing challenge. Despite the stress of her new roles as both a mother and draughtswoman, she still spent hours meticulously practising the art of lithography, as taught by a fellow collaborator, Edward Lear [^6]. Finally, after two years of strenuous labour, her lavishly crafted plates were published in “_A Century of Birds from the Himalaya Mountains_” (1830-1832) accompanied by N. A. Vigors’ factful scientific explanations. Only days after the publication, Elizabeth gave birth to her first son, an adorable baby boy by the name of John Henry.
+There are no records of Elizabeth’s qualification as a draughtswoman, but she would have most likely been familiar with sketches and watercolour paintings of common botany. Nonetheless, it was very different to drawing photographic representations of feathered animals. This, coupled with her first pregnancy, must have proven to be a taxing challenge. Despite the stress of her new roles as both a mother and draughtswoman, she still spent hours meticulously practising the art of lithography, as taught by a fellow collaborator, Edward Lear [^6]. Finally, after two years of strenuous hard work, her lavishly crafted plates were published in “_A Century of Birds from the Himalaya Mountains_” (1830-1832) accompanied by N. A. Vigors’ factful scientific explanations. Only days after the publication, Elizabeth gave birth to her first son, a baby boy by the name of John Henry.
 <param ve-image 
        fit="contain"
        title="Himalayan Monal (Lophophorus impeyanus) in “A Century of Birds from the Himalaya Mountains”" 
@@ -92,7 +98,7 @@ Though the “_Century_” and “_Birds of Europe_” were impressive successes
        license="public domain"
        url="https://upload.wikimedia.org/wikipedia/commons/a/a5/Euphema_Bourkii_by_Elizabeth_Gould.jpg">
 
-This was perhaps Elizabeth’s most exciting period in her life with such an esteemed project in her hands, however, it may have also been her most distraughtly time. Correspondences in letters to her mother revealed that she carried a heavy burden when she left her home country. She sombrely documented her tough decision to leave her 3 youngest children - Charles, Eliza, and Louisa - back in England and concerns and worries constantly plagued her mind [^8]. Nevertheless, she had little time to entertain her doubts as she kept busy by preparing hundreds of sketches, drawings, and paintings of the colony’s native wildlife. The most recognised image she produced was that of the Fairy Wren. In her preliminary drawing for the lithographed plate, she confidently presented her signature technique of using soft and controlled pencil strokes to replicate the lifelike features of each specimen. Her attention to detail extended to her selection of watercolours for the pallet, ensuring that they would precisely represent Australia.
+This was perhaps Elizabeth’s most exciting period in her life with such an esteemed project in her hands, however, it may have also been her most distressing time. Correspondences in letters to her mother revealed that she was riddled with regrets when she left her home country. She sombrely documented her tough decision to leave her three youngest children - Charles, Eliza, and Louisa - back in England and concerns and worries constantly plagued her mind [^8]. Nevertheless, she had little time to entertain her doubts as she kept busy by preparing hundreds of sketches, drawings, and paintings of the colony’s native wildlife. The most recognised image she produced was that of the Fairy Wren. In her preliminary drawing for the lithographed plate, she confidently presented her signature technique of using soft and controlled pencil strokes to replicate the lifelike features of each specimen. Her attention to detail extended to her selection of watercolours for the pallet, ensuring that they would precisely represent Australia.
 <param ve-image 
        fit="contain"
        title="Blue Wren (Malurus cyaneus) in “Birds of Australia”"
@@ -102,8 +108,13 @@ This was perhaps Elizabeth’s most exciting period in her life with such an est
        url="https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/pd15-158-num.jpg?w=800&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=8539ca4f45990976634b541654947458">
 
 In 1840, John, Elizabeth and John Henry returned to familiar British soil with a new collection of exotic specimens and a fresh addition to the Gould family - baby Franklin [^1]. Even when reunited with the rest of her children after two long years of separation, Elizabeth could not abandon her work and spent her time carefully transferring her hand-crafted compositions onto stones. Tragically, she did not see the project to its completion as Elizabeth died on 15 August 1841 from a fatal contraction of puerperal fever, following the birth of her third daughter, Sarah, [^4] in Egham, Surrey [^1].
-<param ve-entity eid="Q746681">
-<param ve-map title="Death place of Elizabeth Gould" center="Q746681" zoom="12" show-labels prefer-geojson>
+<param ve-image 
+       fit="contain"
+       title="A woman in bed after giving birth."
+       description="Engraving by J. Wood, 1830."
+       attribution="Wellcome Images (https://wellcomecollection.org/works/ed688gme/items)"
+       license="public domain"
+       url="https://iiif.wellcomecollection.org/image/V0007494/full/1024%2C/0/default.jpg">
 
 Reportedly, John, devastated by the loss of his 37-year-old wife, memorialised her by naming two Australian birds in her honour - Mrs Gould’s Sunbird and the Gouldian Finch. He accompanied the commemoration with a thankful note, acknowledging Elizabeth’s utmost devotion to their family legacy [^9]. Ultimately, with the unfortunate premature death of his beloved wife, John would outsource a new upcoming artist by the name of Henry Richter to finish the rest of the book using Elizabeth’s remaining sketches and designs [^10].
 <param ve-image 
