@@ -37,7 +37,7 @@ Some may find the family name “Gould” familiar, especially in ornithological
        
 Again, with not much known about the courtship between the lovers, we can speculate it is likely they met through Elizabeth’s younger brother, Charles Coxen. At 22 years old, Elizabeth grew unsatisfied with her occupation as the governess to the 9-year-old daughter of the Chief of the Office of the King’s Proctor. From accounts in letters to her mother, it is said that she felt life was “miserably-wretched dull” [^4]. Thus, it is possible that she would have wanted an escape from her tedious labour and graduate into a life of domesticity. Some authors had even said that John Gould “rescued” [^5] her with their marriage on January 5, 1829, at St James's Church, Piccadilly [^1].
 <param ve-image 
-       fit="-100,-80,1200,936"
+       region="-100,-80,1200,936"
        title="The Governess" 
        description="Painted by Rebecca Solomon, c. 1851" 
        attribution="Jewish Women's Archive (https://jwa.org/media/rebecca-solomon-governess)"
