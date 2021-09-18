@@ -109,7 +109,7 @@ This was perhaps Elizabeth’s most exciting period in her life with such an est
 
 In 1840, John, Elizabeth and John Henry returned to familiar British soil with a new collection of exotic specimens and a fresh addition to the Gould family - baby Franklin [^1]. Even when reunited with the rest of her children after two long years of separation, Elizabeth could not abandon her work and spent her time carefully transferring her hand-crafted compositions onto stones. Tragically, she did not see the project to its completion as Elizabeth died on 15 August 1841 from a fatal contraction of puerperal fever, following the birth of her third daughter, Sarah, [^4] in Egham, Surrey [^1].
 <param ve-image 
-       fit="contain"
+       region="-105,-80,1236,964"
        title="A woman in bed after giving birth."
        description="Engraving by J. Wood, 1830."
        attribution="Wellcome Images (https://wellcomecollection.org/works/ed688gme/items)"
