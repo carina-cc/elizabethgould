@@ -124,7 +124,7 @@ Reportedly, John, devastated by the loss of his 37-year-old wife, memorialised h
        license="CC BY-SA 3.0"
        url="https://upload.wikimedia.org/wikipedia/commons/3/3e/Male_adult_Gouldian_Finch.jpg">
 
-Elizabeth Gould was a woman of her time, raised to be a loving wife and doting mother, but that is not to discredit her for being an extraordinary artist who contributed many landmark pieces in Victorian ornithology. Though eclipsed by the glory of her husband’s name, it is important to note that she was also living in a patriarchal society where that was the expected norm. Thus, it would be prejudiced to judge her story through our 21st-century sentiments. Instead of painting her as an oppressed feminine figure of history, we should remember her as an artistically adept maid of Kent, a strong companion to her husband and a caring mother to her children.
+Elizabeth Gould was a woman of her time, raised to be a loving wife and doting mother, but that is not to discredit her for being an extraordinary artist who contributed many landmark pieces in Victorian ornithology. Though eclipsed by the glory of her husband’s name, it is important to note that she was not just a side character to John's famed story, but rather a remarkable woman in her own right. So, instead of painting her as an oppressed feminine figure of history, we should remember her as an artistically adept maid of Kent, a strong companion to her husband and a caring mother to her children.
 <param ve-image 
        fit="contain"
        title="Elizabeth Gould holding an Australian cockatiel (Nymphicus hollandicus)"
