@@ -9,7 +9,7 @@
        num-images="*">
 
 <param ve-entity eid="Q2095630" title="William Dyce" aliases="Dyce’s">
-<param ve-entity eid="Q313787" title="Jane" aliases="Jane’s">
+<param ve-entity eid="Q96084586" title="Jane" aliases="Jane’s">
 <param ve-entity eid="Q736439" title="Ramsgate">
 <param ve-entity eid="Q981088" title="Donati’s Comet">
 <param ve-entity eid="Q3425604" title="Pegwell Bay">
@@ -26,7 +26,7 @@ William Dyce (1806-1864) took his young family on holiday to [Ramsgate](/19c/19c
     description="by John Watkins in albumen carte-de-visite, 1860-1864" 
     attribution="National Portrait Gallery (https://www.npg.org.uk/collections/search/portrait/mw111900/William-Dyce?)"
     license="CC BY-NC-ND 3.0"
-    url="https://i.imgur.com/gs45uqR.jpeg">
+    url="blob:null/78d86ce1-8727-4187-aa47-ab385068ea31">
 
 
 On this holiday, they were joined by Jane’s sisters, <span data-mouseover-image-zoomto="713,514,741,578">Grace and Isabella Brand.</span> They appear in Dyce’s painting _Pegwell Bay – A Recollection of October 5th 1858_, along with <span data-mouseover-image-zoomto="313,660,515,402">Jane and just one of the children</span>, probably the six-year-old son, who was also called William. In the background, barely noticeable on the very right-hand edge of the canvas, is <span data-mouseover-image-zoomto="1322,623,215,168">the artist himself </span>, gazing up at the sky. What he can see there explains the unusual title of his painting. It is Donati’s Comet, which was visible to the naked eye from late August to early December in that year, being at its brightest on October 5th. Rather surprisingly, the comet is only just visible in the painting – like the artist. The other figures concentrate on collecting shells or gaze out towards the sea, seemingly oblivious of the miraculous apparition in the 
@@ -64,7 +64,7 @@ Dyce’s painting was shown at the Royal Academy exhibition in 1860, where revie
     src="https://www.tate.org.uk/research/publications/in-focus/pegwell-bay-kent-william-dyce/pegwell-bay-1860-exhibition">
 
 
-The Dyces did not go back to [Ramsgate](/19c/19c-ramsgate)  in subsequent summers, having found the lodging there expensive. In 1859 their holiday was in Arran, in 1860 in <span data-mouseover-map-flyto="52.9, -3.39">North Wales</span>, where Dyce claimed they got ‘twice as much for the money as they ever got in England’[^2].  But he could report that he had made £400 from his holiday in [Ramsgate](/19c/19c-ramsgate). We know that the painting was sold to his father-in-law, and presumably that is what he paid. 
+The Dyces did not go back to [Ramsgate](/19c/19c-ramsgate)  in subsequent summers, having found the lodging there expensive. In 1859 their holiday was in Arran, in 1860 in <span data-mouseover-map-flyto="52.9, -3.66">North Wales</span>, where Dyce claimed they got ‘twice as much for the money as they ever got in England’[^2].  But he could report that he had made £400 from his holiday in [Ramsgate](/19c/19c-ramsgate). We know that the painting was sold to his father-in-law, and presumably that is what he paid. 
 <param ve-map title="Ramsgate" center="Q736439" zoom="12" prefer-geojson show-labels>
 
 
