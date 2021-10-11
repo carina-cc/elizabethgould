@@ -37,7 +37,7 @@ sky behind them.
     description="oil painting by William Dyce, 1858"
     license="CC BY-NC-ND 3.0" 
     attribution="Tate Modern (https://www.tate.org.uk/art/artworks/dyce-pegwell-bay-kent-a-recollection-of-october-5th-1858-n01407)"
-    manifest="file:///C:/Users/ccha1/Downloads/1a5fa6b073e9ae3b773f5ae8e421b6ea09989b0257c142a1b7df7146d640a720.json">
+    manifest="https://iiif.juncture-digital.org/manifest/1a5fa6b073e9ae3b773f5ae8e421b6ea09989b0257c142a1b7df7146d640a720">
        
 
 Pegwell Bay, a resort on the edge of [Ramsgate](/19c/19c-ramsgate), was an unlikely place for a vision. In the 1850s it was famous for its shrimps, which could be consumed by the pint in the [Belle Vue Tavern](https://www.thebellevuetavern.co.uk/) at the top of the cliffs. A nearby factory converted them into shrimp paste or shrimp sauce, which was sold in porcelain pots with views of the visitors had eaten their fill of shrimps, there were donkey rides for children, shown in bay on their lids. Once a painting by Dyce’s contemporary, Arthur Boyd Houghton, in 1862. Development of the resort was rapid in the 1870s, so that it did not remain a suitable site for contemplation for very long.
