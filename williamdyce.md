@@ -11,8 +11,7 @@
 <param ve-entity eid="Q2095630" title="William Dyce" aliases="Dyce’s">
 <param ve-entity eid="Q313787" title="Jane" aliases="Jane’s">
 <param ve-entity eid="Q736439" title="Ramsgate" >
-<param ve-entity eid="Q7160828" title="Pegwell Bay – A Recollection of October 5th 1858">
-<param ve-entity eid="Q981088" title=" Donati’s Comet">
+<param ve-entity eid="Q981088" title="Donati’s Comet">
 <param ve-entity eid="Q3425604" title="Pegwell Bay">
 <param ve-entity eid="Q4798063" title="Arthur Boyd Houghton">
 
