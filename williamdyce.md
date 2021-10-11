@@ -41,18 +41,16 @@ sky behind them.
 
 Pegwell Bay, a resort on the edge of [Ramsgate](/19c/19c-ramsgate), was an unlikely place for a vision. In the 1850s it was famous for its shrimps, which could be consumed by the pint in the [Belle Vue Tavern](https://www.thebellevuetavern.co.uk/) at the top of the cliffs. A nearby factory converted them into shrimp paste or shrimp sauce, which was sold in porcelain pots with views of the visitors had eaten their fill of shrimps, there were donkey rides for children, shown in bay on their lids. Once a painting by Dyce’s contemporary, Arthur Boyd Houghton, in 1862. Development of the resort was rapid in the 1870s, so that it did not remain a suitable site for contemplation for very long.
 <param ve-map title="Pegwell Bay, Ramsgate" center="Q3425604" zoom="12" prefer-geojson show-labels>
-<param ve-image
-    fit="contain"
-    title="Shrimp Paste Pot Lid." 
-    description="prattware pot lid from 'Pegwell Bay & Four Shrimpers' collection, c.1860"  
-    url="https://i.ebayimg.com/images/g/61wAAOSw0~9hNQto/s-l1600.jpg">
-<param ve-image
-    fit="contain"
-    title="At the Seaside, Pegwell Bay, near Ramsgate, Kent" 
-    description="painting by Arthur Boyd Houghton, 1862" 
-    license="CC BY 3.0" 
-    attribution="Maidstone Museum and Bentlif Art Gallery, Maidstone (https://artuk.org/discover/artworks/at-the-seaside-pegwell-bay-near-ramsgate-kent-76676/view_as/grid/search/keyword:kent-pegwell-bay--referrer:global-search/page/1)"
-    url="https://d3d00swyhr67nd.cloudfront.net/w944h944/collection/KT/MMB/KT_MMB_B_MAI_46514-001.jpg">
+
+# Showcase
+<param id="showcase" class="cards carousel">
+
+#
+![](https://i.ebayimg.com/images/g/61wAAOSw0~9hNQto/s-l1600.jpg)
+#
+![](https://d3d00swyhr67nd.cloudfront.net/w944h944/collection/KT/MMB/KT_MMB_B_MAI_46514-001.jpg)
+
+
 
 
 Dyce’s painting was shown at the Royal Academy exhibition in 1860, where reviewers were generally enthusiastic about it. One critic liked the modernity of the ‘minutely truthful family group in balmorals and linsey-woolsey petticoats’; another found it ‘one of the noblest pictures in the exhibition … poetic beauty developed out of familiar realities’[^1]. 
