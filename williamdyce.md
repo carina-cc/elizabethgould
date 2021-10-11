@@ -3,10 +3,10 @@
 <param ve-config 
        title="William Dyce (1806-1864) "
        author="Prof Christiana Payne"
-       banner="insert pic" 
+       banner="https://i.imgur.com/T74Vdh9.jpg" 
        layout="vertical"
-       num-maps="*"
-       num-images="*">
+       num-maps="2"
+       num-images="4">
 
 <param ve-entity eid="Q2095630" title="William Dyce" aliases="Dyce’s">
 <param ve-entity eid="Q96084586" aliases="Jane">
@@ -62,15 +62,15 @@ The Dyces did not go back to  <span data-mouseover-map-flyto="51.4, 1.43">Ramsga
 
 ### Bibliography
 ---
-[1]Easdown, Martin. _Adventures in Shrimpville, or Pegwell Bay as a Seaside Resort_. 4th edn. Ramsgate, 2007.
-[2]Payne, Christiana (ed.), [In Focus: Pegwell Bay, Kent -  A Recollection of October 5th, 1858 (?1858-60) by William Dyce](https://www.tate.org.uk/research/publications/in-focus/pegwell-bay-kent-william-dyce) Tate Research Publication, 2016
-[3]Pointon, Marcia. _William Dyce 1806-1864: A Critical Biography_. Oxford, 1979
+[1]: Easdown, Martin. _Adventures in Shrimpville, or Pegwell Bay as a Seaside Resort_. 4th edn. Ramsgate, 2007.
+[2]: Payne, Christiana (ed.), [In Focus: Pegwell Bay, Kent -  A Recollection of October 5th, 1858 (?1858-60) by William Dyce](https://www.tate.org.uk/research/publications/in-focus/pegwell-bay-kent-william-dyce) Tate Research Publication, 2016
+[3]: Pointon, Marcia. _William Dyce 1806-1864: A Critical Biography_. Oxford, 1979
 
 ### Illustrations
 ---
-[1]William Dyce, Pegwell Bay – A Recollection of October 5th 1858 (?1858-60). Tate.
-[2]Ceramic pot lid featuring _Pegwell Bay and Four Shrimpers_. c. 1860
-[3]Houghton, Arthur Boyd. _At the Seaside, Pegwell Bay, near Ramsgate, Kent_ (1862). Maidstone Museum and Bentlif Art Gallery, Maidstone.
+[1]: William Dyce, Pegwell Bay – A Recollection of October 5th 1858 (?1858-60). Tate.
+[2]: Ceramic pot lid featuring _Pegwell Bay and Four Shrimpers_. c. 1860
+[3]: Houghton, Arthur Boyd. _At the Seaside, Pegwell Bay, near Ramsgate, Kent_ (1862). Maidstone Museum and Bentlif Art Gallery, Maidstone.
 
 ### End Notes
 [^1]: _Times_, no.23612. 5 May 1860.5; Critic:20:514. 12 May 1860. 594.
