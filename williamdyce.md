@@ -9,15 +9,13 @@
        num-images="*">
 
 <param ve-entity eid="Q2095630" title="William Dyce" aliases="Dyce’s">
-<param ve-entity eid="Q96084586" aliases="Jane’s, Jane">
+<param ve-entity eid="Q96084586" aliases="Jane">
 <param ve-entity eid="Q736439" title="Ramsgate">
 <param ve-entity eid="Q981088" aliases="Donati’s Comet">
 <param ve-entity eid="Q3425604" title="Pegwell Bay">
 <param ve-entity eid="Q4798063" title="Arthur Boyd Houghton">
 <param ve-entity eid="Q211873" title="Arran">
 <param ve-entity eid="Q1892770" title="North Wales">
-
-
 
 
 William Dyce (1806-1864) took his young family on holiday to [Ramsgate](/19c/19c-ramsgate) in 1858, probably from mid-September until the end of October. London, where he was working on wall paintings in the Houses of Parliament, was not good for his health. As soon as the weather became too cold and damp for fresco painting, he set off in search of sea or country air. His wife Jane must have been in need of a holiday too. They had married in 1850, when she was nineteen and William was forty-three, and she had produced four children in quick succession between 1851 and 1855.
