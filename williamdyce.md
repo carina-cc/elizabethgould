@@ -18,7 +18,6 @@
 
 
 William Dyce (1806-1864) took his young family on holiday to [Ramsgate](/19c/19c-ramsgate) in 1858, probably from mid-September until the end of October. London, where he was working on wall paintings in the Houses of Parliament, was not good for his health. As soon as the weather became too cold and damp for fresco painting, he set off in search of sea or country air. His wife Jane must have been in need of a holiday too. They had married in 1850, when she was nineteen and William was forty-three, and she had produced four children in quick succession between 1851 and 1855.
-<param ve-map title="Birth place of Elizabeth Gould" center="Q736439" zoom="12" prefer-geojson show-labels>
 <param ve-image
     fit="contain"
     title="Photograph of William Dyce" 
@@ -45,8 +44,8 @@ Pegwell Bay, a resort on the edge of [Ramsgate](/19c/19c-ramsgate), was an unlik
     fit="contain"
     title="Shrimp Paste Pot Lid." 
     description="ceramic pot lid from 'Pegwell Bay & Four Shrimpers' collection, c.1860"  
-    attribution="photograph provided by Brian Whitehead."
-    url="https://scontent.fltn3-2.fna.fbcdn.net/v/t1.18169-9/12316320_972482662809839_8482363023102959757_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=cdbe9c&_nc_ohc=zLVV0MVU59EAX_irne-&_nc_ht=scontent.fltn3-2.fna&oh=2a04ef2da4a4c94cd1a577ef69fffbfd&oe=61890B17">
+    attribution="Tate Modern (https://www.tate.org.uk/research/publications/in-focus/pegwell-bay-kent-william-dyce/coastal-resort)"
+    url="https://www.tate.org.uk/sites/default/files/styles/width-170/public/images/fig1pegwellbayfourshrimpersceramicpot1860.jpg">
 <param ve-image
     fit="contain"
     title="At the Seaside, Pegwell Bay, near Ramsgate, Kent" 
@@ -63,11 +62,11 @@ Dyce’s painting was shown at the Royal Academy exhibition in 1860, where revie
     src="https://www.tate.org.uk/research/publications/in-focus/pegwell-bay-kent-william-dyce/pegwell-bay-1860-exhibition">
 
 
-The Dyces did not go back to [Ramsgate](/19c/19c-ramsgate)  in subsequent summers, having found the lodging there expensive. In 1859 their holiday was in <span data-mouseover-map-flyto="Q211873">Arran</span>, in 1860 in <span data-mouseover-map-flyto="Q1892770">North Wales</span>, where Dyce claimed they got ‘twice as much for the money as they ever got in England’[^2].  But he could report that he had made £400 from his holiday in [Ramsgate](/19c/19c-ramsgate). We know that the painting was sold to his father-in-law, and presumably that is what he paid. 
+The Dyces did not go back to [Ramsgate](/19c/19c-ramsgate)  in subsequent summers, having found the lodging there expensive. In 1859 their holiday was in <span data-mouseover-map-flyto="Q211873" prefer-geojson show-labels>Isle of Arran</span>, in 1860 in <span data-mouseover-map-flyto="Q1892770" prefer-geojson show-labels>North Wales</span>, where Dyce claimed they got ‘twice as much for the money as they ever got in England’[^2].  But he could report that he had made £400 from his holiday in [Ramsgate](/19c/19c-ramsgate). We know that the painting was sold to his father-in-law, and presumably that is what he paid. 
 <param ve-map title="Ramsgate" center="Q736439" zoom="12" prefer-geojson show-labels>
 
 
-# End Notes
+
 [^1]: _Times_, no.23612. 5 May 1860.5; Critic:20:514. 12 May 1860. 594.
 [^2]: William Dyce, letter to Robert Cay, 20 October 1860. Dyce Papers TAM 54/31. The Dyce Papers is an unpublished collection of typescript and handwritten notes put together by William Dyce’s son, James Stirling Dyce. It includes transcripts of Dyce’s correspondence and writings. The original is in the archives of Aberdeen Art Gallery and Museum; a microfiche is kept in the Tate Archives.
 
@@ -84,14 +83,3 @@ William Dyce, Pegwell Bay – A Recollection of October 5th 1858 (?1858-60). Tat
 Ceramic pot lid featuring _Pegwell Bay and Four Shrimpers_. c. 1860
 
 Houghton, Arthur Boyd. _At the Seaside, Pegwell Bay, near Ramsgate, Kent_ (1862). Maidstone Museum and Bentlif Art Gallery, Maidstone.
-
-
-[^2]: [Castellucci, Adria. “Elizabeth Gould: working wife, Victorian mother.” _The Australian Museum_. The Australian Museum, n.d. Web.](https://australian.museum/learn/collections/museum-archives-library/john-gould/elizabeth-gould-1804-1841/working-wife-and-mother/) Accessed on 1 Jul. 2021
-[^3]: [“John Gould.” _National Portrait Gallery_. Australian National Portrait Gallery, n.d. Web.](https://www.portrait.gov.au/people/john-gould-1804) Accessed on 1 Jul. 2021
-[^4]: [Ashley, Melissa. “Elizabeth Gould.” _The University of Kansas_. The University of Kansas Libraries, n.d. Web.](https://exhibits.lib.ku.edu/exhibits/show/gould/about/elizabeth_gould) Accessed on 21 Jun. 2021
-[^5]: [Russel, Roslyn. _The Business of Nature: John Gould and Australia_. Canberra: The National Library of Australia, 2011. _Google Books_. Web.](https://books.google.co.uk/books?id=71qYuhz9FM8C&lpg=PP1&pg=PA11#v=onepage&q&f=false) Accessed on 8 Sep. 2021
-[^6]: [“The Story of Elizabeth Gould – An Extraordinary Bird Woman.” _Tyne & Wear Archives & Museums Blog_. Tyne & Wear Archives & Museums Staff Members, 5 May 2020. Blog.](https://blog.twmuseums.org.uk/the-story-of-elizabeth-gould-an-extraordinary-bird-woman/) Accessed on 21 Jun. 2021
-[^7]: [Bowdler Sharpe, R. 1893. _An analytical index to the works of the late John Gould_. London: Sotheran. _Biodiversity Heritage Library_. Web.](https://www.biodiversitylibrary.org/item/238898#page/18/mode/1up) Accessed on 8 Sep. 2021
-[^8]: [Alvis, Alexandra K. “Elizabeth Gould: An Accomplished Woman.” _Smithsonian Libraries and Archives Blog_. Smithsonian Libraries and Archives, 29 Mar. 2018. Blog.](https://blog.library.si.edu/blog/2018/03/29/elizabeth-gould-an-accomplished-woman/#.YT9oVn2ndPY) Accessed on 21 Jun. 2021
-[^9]: [Gould, John F.R.S., 1848. _The Birds of Australia_. Vol. 3. London. _Biodiversity Heritage Library_. Web.](https://www.biodiversitylibrary.org/item/187975#page/7/mode/1up) Accessed on 8 Sep. 2021
-[^10]: [“Elizabeth Gould (1804-1841)” _The Australian Museum_. The Australian Museum, n.d. Web.](https://australian.museum/learn/collections/museum-archives-library/john-gould/elizabeth-gould-1804-1841/) Accessed on 1 Jul. 2021
