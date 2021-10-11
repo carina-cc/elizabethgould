@@ -27,7 +27,7 @@ William Dyce (1806-1864) took his young family on holiday to [Ramsgate](/19c/19c
     description="by John Watkins in albumen carte-de-visite, 1860-1864" 
     attribution="National Portrait Gallery (https://www.npg.org.uk/collections/search/portrait/mw111900/William-Dyce?)"
     license="CC BY-NC-ND 3.0"
-    url="blob:null/78d86ce1-8727-4187-aa47-ab385068ea31">
+    url="https://i.imgur.com/gs45uqR.jpeg">
 
 
 On this holiday, they were joined by Jane’s sisters, <span data-mouseover-image-zoomto="713,514,741,578">Grace and Isabella Brand.</span> They appear in Dyce’s painting _Pegwell Bay – A Recollection of October 5th 1858_, along with <span data-mouseover-image-zoomto="313,660,515,402">Jane and just one of the children</span>, probably the six-year-old son, who was also called William. In the background, barely noticeable on the very right-hand edge of the canvas, is <span data-mouseover-image-zoomto="1322,623,215,168">the artist himself </span>, gazing up at the sky. What he can see there explains the unusual title of his painting. It is Donati’s Comet, which was visible to the naked eye from late August to early December in that year, being at its brightest on October 5th. Rather surprisingly, the comet is only just visible in the painting – like the artist. The other figures concentrate on collecting shells or gaze out towards the sea, seemingly oblivious of the miraculous apparition in the 
@@ -38,7 +38,7 @@ sky behind them.
     description="oil painting by William Dyce, 1858"
     license="CC BY-NC-ND 3.0" 
     attribution="Tate Modern (https://www.tate.org.uk/art/artworks/dyce-pegwell-bay-kent-a-recollection-of-october-5th-1858-n01407)"
-    url="https://carina-cc.github.io/kentmap-images/manifests/manifest2.json">
+    manifest="https://carina-cc.github.io/kentmap-images/manifests/manifest2.json">
        
 
 Pegwell Bay, a resort on the edge of [Ramsgate](/19c/19c-ramsgate), was an unlikely place for a vision. In the 1850s it was famous for its shrimps, which could be consumed by the pint in the [Belle Vue Tavern](https://www.thebellevuetavern.co.uk/) at the top of the cliffs. A nearby factory converted them into shrimp paste or shrimp sauce, which was sold in porcelain pots with views of the visitors had eaten their fill of shrimps, there were donkey rides for children, shown in bay on their lids. Once a painting by Dyce’s contemporary, Arthur Boyd Houghton, in 1862. Development of the resort was rapid in the 1870s, so that it did not remain a suitable site for contemplation for very long.
