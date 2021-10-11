@@ -10,10 +10,13 @@
 
 <param ve-entity eid="Q2095630" title="William Dyce" aliases="Dyce’s">
 <param ve-entity eid="Q313787" title="Jane" aliases="Jane’s">
-<param ve-entity eid="Q736439" title="Ramsgate" >
+<param ve-entity eid="Q736439" title="Ramsgate">
 <param ve-entity eid="Q981088" title="Donati’s Comet">
 <param ve-entity eid="Q3425604" title="Pegwell Bay">
 <param ve-entity eid="Q4798063" title="Arthur Boyd Houghton">
+<param ve-entity eid="Q211873" title="Arran">
+<param ve-entity eid="Q1892770" title="North Wales">>
+
 
 
 William Dyce (1806-1864) took his young family on holiday to [Ramsgate](/19c/19c-ramsgate) in 1858, probably from mid-September until the end of October. London, where he was working on wall paintings in the Houses of Parliament, was not good for his health. As soon as the weather became too cold and damp for fresco painting, he set off in search of sea or country air. His wife Jane must have been in need of a holiday too. They had married in 1850, when she was nineteen and William was forty-three, and she had produced four children in quick succession between 1851 and 1855.
@@ -37,7 +40,7 @@ sky behind them.
     url="https://www.tate.org.uk/art/images/work/N/N01/N01407_10.jpg">
        
 
-Pegwell Bay, a resort on the edge of [Ramsgate](/19c/19c-ramsgate), was an unlikely place for a vision. In the 1850s it was famous for its shrimps, which could be consumed by the pint in the [Belle Vue Tavern] (https://www.thebellevuetavern.co.uk/) at the top of the cliffs. A nearby factory converted them into shrimp paste or shrimp sauce, which was sold in porcelain pots with views of the visitors had eaten their fill of shrimps, there were donkey rides for children, shown in bay on their lids. Once a painting by Dyce’s contemporary, Arthur Boyd Houghton, in 1862. Development of the resort was rapid in the 1870s, so that it did not remain a suitable site for contemplation for very long.
+Pegwell Bay, a resort on the edge of [Ramsgate](/19c/19c-ramsgate), was an unlikely place for a vision. In the 1850s it was famous for its shrimps, which could be consumed by the pint in the [Belle Vue Tavern](https://www.thebellevuetavern.co.uk/) at the top of the cliffs. A nearby factory converted them into shrimp paste or shrimp sauce, which was sold in porcelain pots with views of the visitors had eaten their fill of shrimps, there were donkey rides for children, shown in bay on their lids. Once a painting by Dyce’s contemporary, Arthur Boyd Houghton, in 1862. Development of the resort was rapid in the 1870s, so that it did not remain a suitable site for contemplation for very long.
 <param ve-map title="Pegwell Bay, Ramsgate" center="Q3425604" zoom="12" prefer-geojson show-labels>
 <param ve-image
     fit="contain"
@@ -61,7 +64,7 @@ Dyce’s painting was shown at the Royal Academy exhibition in 1860, where revie
     src="https://www.tate.org.uk/research/publications/in-focus/pegwell-bay-kent-william-dyce/pegwell-bay-1860-exhibition">
 
 
-The Dyces did not go back to [Ramsgate](/19c/19c-ramsgate)  in subsequent summers, having found the lodging there expensive. In 1859 their holiday was in <span data-mouseover-map-flyto="Q211873" prefer-geojson show-labels>Isle of Arran</span>, in 1860 in <span data-mouseover-map-flyto="Q1892770" prefer-geojson show-labels>North Wales</span>, where Dyce claimed they got ‘twice as much for the money as they ever got in England’[^2].  But he could report that he had made £400 from his holiday in [Ramsgate](/19c/19c-ramsgate). We know that the painting was sold to his father-in-law, and presumably that is what he paid. 
+The Dyces did not go back to [Ramsgate](/19c/19c-ramsgate)  in subsequent summers, having found the lodging there expensive. In 1859 their holiday was in Arran, in 1860 in North Wales, where Dyce claimed they got ‘twice as much for the money as they ever got in England’[^2].  But he could report that he had made £400 from his holiday in [Ramsgate](/19c/19c-ramsgate). We know that the painting was sold to his father-in-law, and presumably that is what he paid. 
 <param ve-map title="Ramsgate" center="Q736439" zoom="12" prefer-geojson show-labels>
 
 
