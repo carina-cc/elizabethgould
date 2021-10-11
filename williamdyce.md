@@ -12,7 +12,7 @@
 <param ve-entity eid="Q313787" title="Jane" aliases="Jane’s">
 <param ve-entity eid="Q736439" title="Ramsgate" >
 <param ve-entity eid="Q7160828" title="Pegwell Bay – A Recollection of October 5th 1858">
-<param ve-entity eid="Q981088" title=" Donati’s Comet" aliases="comet">
+<param ve-entity eid="Q981088" title=" Donati’s Comet">
 <param ve-entity eid="Q3425604" title="Pegwell Bay">
 <param ve-entity eid="Q4798063" title="Arthur Boyd Houghton">
 
@@ -27,7 +27,7 @@ William Dyce (1806-1864) took his young family on holiday to [Ramsgate](/19c/19c
     url="https://i.imgur.com/gs45uqR.jpeg">
 
 
-On this holiday, they were joined by Jane’s sisters, Grace and Isabella Brand. They appear in Dyce’s painting _Pegwell Bay – A Recollection of October 5th 1858_, along with <span data-mouseover-image-zoomto="6914,6799,1472,2820">Jane and just one of the children</span>, probably the six-year-old son, who was also called William. In the background, barely noticeable on the very right-hand edge of the canvas, is <span data-mouseover-image-zoomto="6914,6799,1472,2820">the artist himself </span>, gazing up at the sky. What he can see there explains the unusual title of his painting. It is Donati’s Comet, which was visible to the naked eye from late August to early December in that year, being at its brightest on October 5th. Rather surprisingly, the comet is only just visible in the painting – like the artist. The other figures concentrate on collecting shells or gaze out towards the sea, seemingly oblivious of the miraculous apparition in the 
+On this holiday, they were joined by Jane’s sisters, Grace and Isabella Brand. They appear in Dyce’s painting _Pegwell Bay – A Recollection of October 5th 1858_, along with <span data-mouseover-image-zoomto="0,0,0,0">Jane and just one of the children</span>, probably the six-year-old son, who was also called William. In the background, barely noticeable on the very right-hand edge of the canvas, is <span data-mouseover-image-zoomto="0,0,0,0">the artist himself </span>, gazing up at the sky. What he can see there explains the unusual title of his painting. It is Donati’s Comet, which was visible to the naked eye from late August to early December in that year, being at its brightest on October 5th. Rather surprisingly, the comet is only just visible in the painting – like the artist. The other figures concentrate on collecting shells or gaze out towards the sea, seemingly oblivious of the miraculous apparition in the 
 sky behind them.
 <param ve-image
     fit="contain" 
@@ -35,7 +35,7 @@ sky behind them.
     description="oil painting by William Dyce, 1858"
     license="CC BY-NC-ND 3.0" 
     attribution="Tate Modern (https://www.tate.org.uk/art/artworks/dyce-pegwell-bay-kent-a-recollection-of-october-5th-1858-n01407)"
-    url="https://i.imgur.com/gs45uqR.jpeg">
+    url="https://www.tate.org.uk/art/images/work/N/N01/N01407_10.jpg">
        
 
 Pegwell Bay, a resort on the edge of [Ramsgate](/19c/19c-ramsgate), was an unlikely place for a vision. In the 1850s it was famous for its shrimps, which could be consumed by the pint in the [Belle Vue Tavern] (https://www.thebellevuetavern.co.uk/) at the top of the cliffs. A nearby factory converted them into shrimp paste or shrimp sauce, which was sold in porcelain pots with views of the visitors had eaten their fill of shrimps, there were donkey rides for children, shown in bay on their lids. Once a painting by Dyce’s contemporary, Arthur Boyd Houghton, in 1862. Development of the resort was rapid in the 1870s, so that it did not remain a suitable site for contemplation for very long.
