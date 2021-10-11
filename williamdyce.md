@@ -25,7 +25,7 @@ William Dyce (1806-1864) took his young family on holiday to [Ramsgate](/19c/19c
     description="by John Watkins in albumen carte-de-visite, 1860-1864" 
     attribution="National Portrait Gallery (https://www.npg.org.uk/collections/search/portrait/mw111900/William-Dyce?)"
     license="CC BY-NC-ND 3.0"
-    url="https://i.imgur.com/gs45uqR.jpeg">
+    url="https://i.imgur.com/iwAgEKD.png">
 
 
 On this holiday, they were joined by Jane’s sisters, <span data-mouseover-image-zoomto="713,514,741,578">Grace and Isabella Brand.</span> They appear in Dyce’s painting _Pegwell Bay – A Recollection of October 5th 1858_, along with <span data-mouseover-image-zoomto="313,660,515,402">Jane and just one of the children</span>, probably the six-year-old son, who was also called William. In the background, barely noticeable on the very right-hand edge of the canvas, is <span data-mouseover-image-zoomto="1322,623,215,168">the artist himself </span>, gazing up at the sky. What he can see there explains the unusual title of his painting. It is Donati’s Comet, which was visible to the naked eye from late August to early December in that year, being at its brightest on October 5th. Rather surprisingly, the comet is only just visible in the painting – like the artist. The other figures concentrate on collecting shells or gaze out towards the sea, seemingly oblivious of the miraculous apparition in the 
@@ -62,15 +62,15 @@ The Dyces did not go back to  <span data-mouseover-map-flyto="51.4, 1.43">Ramsga
 
 ### Bibliography
 ---
-[1]: Easdown, Martin. _Adventures in Shrimpville, or Pegwell Bay as a Seaside Resort_. 4th edn. Ramsgate, 2007.
-[2]: Payne, Christiana (ed.), [In Focus: Pegwell Bay, Kent -  A Recollection of October 5th, 1858 (?1858-60) by William Dyce](https://www.tate.org.uk/research/publications/in-focus/pegwell-bay-kent-william-dyce) Tate Research Publication, 2016
-[3]: Pointon, Marcia. _William Dyce 1806-1864: A Critical Biography_. Oxford, 1979
+1. Easdown, Martin. _Adventures in Shrimpville, or Pegwell Bay as a Seaside Resort_. 4th edn. Ramsgate, 2007.
+2. Payne, Christiana (ed.), [In Focus: Pegwell Bay, Kent -  A Recollection of October 5th, 1858 (?1858-60) by William Dyce](https://www.tate.org.uk/research/publications/in-focus/pegwell-bay-kent-william-dyce) Tate Research Publication, 2016
+3. Pointon, Marcia. _William Dyce 1806-1864: A Critical Biography_. Oxford, 1979
 
 ### Illustrations
 ---
-[1]: William Dyce, Pegwell Bay – A Recollection of October 5th 1858 (?1858-60). Tate.
-[2]: Ceramic pot lid featuring _Pegwell Bay and Four Shrimpers_. c. 1860
-[3]: Houghton, Arthur Boyd. _At the Seaside, Pegwell Bay, near Ramsgate, Kent_ (1862). Maidstone Museum and Bentlif Art Gallery, Maidstone.
+1. William Dyce, Pegwell Bay – A Recollection of October 5th 1858 (?1858-60). Tate.
+2. Ceramic pot lid featuring _Pegwell Bay and Four Shrimpers_. c. 1860
+3. Houghton, Arthur Boyd. _At the Seaside, Pegwell Bay, near Ramsgate, Kent_ (1862). Maidstone Museum and Bentlif Art Gallery, Maidstone.
 
 ### End Notes
 [^1]: _Times_, no.23612. 5 May 1860.5; Critic:20:514. 12 May 1860. 594.
