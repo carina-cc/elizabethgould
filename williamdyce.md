@@ -46,12 +46,12 @@ Dyce’s painting was shown at the Royal Academy exhibition in 1860, where revie
 <param ve-image 
     layers="true"
     fit="contain"
-    title="Shrimp Paste Pot Lid." 
+    label="Shrimp Paste Pot Lid." 
     description="prattware pot lid from 'Pegwell Bay & Four Shrimpers' collection, c.1860"  
     url="https://i.ebayimg.com/images/g/61wAAOSw0~9hNQto/s-l1600.jpg">
 <param ve-image
     fit="contain"
-    title="At the Seaside, Pegwell Bay, near Ramsgate, Kent" 
+    label="At the Seaside, Pegwell Bay, near Ramsgate, Kent" 
     description="painting by Arthur Boyd Houghton, 1862" 
     license="CC BY 3.0" 
     attribution="Maidstone Museum and Bentlif Art Gallery, Maidstone (https://artuk.org/discover/artworks/at-the-seaside-pegwell-bay-near-ramsgate-kent-76676/view_as/grid/search/keyword:kent-pegwell-bay--referrer:global-search/page/1)"
