@@ -43,7 +43,7 @@ Pegwell Bay, a resort on the edge of [Ramsgate](/19c/19c-ramsgate), was an unlik
 <param ve-map title="Pegwell Bay, Ramsgate" center="Q3425604" zoom="12" prefer-geojson show-labels>
 
 Dyce’s painting was shown at the Royal Academy exhibition in 1860, where reviewers were generally enthusiastic about it. One critic liked the modernity of the ‘minutely truthful family group in balmorals and linsey-woolsey petticoats’; another found it ‘one of the noblest pictures in the exhibition … poetic beauty developed out of familiar realities’[^1]. 
-<param ve-image
+<param ve-image layer
     fit="contain"
     ref="1"
     title="Shrimp Paste Pot Lid." 
@@ -59,7 +59,7 @@ Dyce’s painting was shown at the Royal Academy exhibition in 1860, where revie
     url="https://d3d00swyhr67nd.cloudfront.net/w944h944/collection/KT/MMB/KT_MMB_B_MAI_46514-001.jpg">
 
 
-The Dyces did not go back to  <span data-mouseover-map-flyto="Q736439">[Ramsgate](/19c/19c-ramsgate)</span> in subsequent summers, having found the lodging there expensive. In 1859 their holiday was in <span data-mouseover-map-flyto="55.6, -5.23">Arran</span>, in 1860 in <span data-mouseover-map-flyto="52.9, -3.66">North Wales</span>, where Dyce claimed they got ‘twice as much for the money as they ever got in England’[^2].  But he could report that he had made £400 from his holiday in [Ramsgate](/19c/19c-ramsgate). We know that the painting was sold to his father-in-law, and presumably that is what he paid. 
+The Dyces did not go back to  <span data-mouseover-map-flyto="Q736439">Ramsgate</span> in subsequent summers, having found the lodging there expensive. In 1859 their holiday was in <span data-mouseover-map-flyto="55.6, -5.23">Arran</span>, in 1860 in <span data-mouseover-map-flyto="52.9, -3.66">North Wales</span>, where Dyce claimed they got ‘twice as much for the money as they ever got in England’[^2].  But he could report that he had made £400 from his holiday in [Ramsgate](/19c/19c-ramsgate). We know that the painting was sold to his father-in-law, and presumably that is what he paid. 
 <param ve-map title="Dyce's holiday destinations" center="Q736439" zoom="12" prefer-geojson show-labels>
 
 
