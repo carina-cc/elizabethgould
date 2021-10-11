@@ -39,7 +39,7 @@ sky behind them.
     url="https://www.tate.org.uk/art/images/work/N/N01/N01407_10.jpg">
        
 
-Pegwell Bay, a resort on the edge of [Ramsgate](/19c/19c-ramsgate), was an unlikely place for a vision. In the 1850s it was famous for its shrimps, which could be consumed by the pint in the [Belle Vue Tavern](https://www.thebellevuetavern.co.uk/) at the top of the cliffs. A nearby factory converted them into shrimp paste or shrimp sauce, which was sold in <span data-mouseover-image-zoomto="1">porcelain pots</span> with views of the visitors had eaten their fill of shrimps, there were donkey rides for children, shown in bay on their lids. Once a <span data-mouseover-image-zoomto="2">painting</span> by Dyce’s contemporary, Arthur Boyd Houghton, in 1862. Development of the resort was rapid in the 1870s, so that it did not remain a suitable site for contemplation for very long.
+Pegwell Bay, a resort on the edge of [Ramsgate](/19c/19c-ramsgate), was an unlikely place for a vision. In the 1850s it was famous for its shrimps, which could be consumed by the pint in the [Belle Vue Tavern](https://www.thebellevuetavern.co.uk/) at the top of the cliffs. A nearby factory converted them into shrimp paste or shrimp sauce, which was sold in <span data-mouseover-image="1">porcelain pots</span> with views of the visitors had eaten their fill of shrimps, there were donkey rides for children, shown in bay on their lids. Once a <span data-mouseover-image="2">painting</span> by Dyce’s contemporary, Arthur Boyd Houghton, in 1862. Development of the resort was rapid in the 1870s, so that it did not remain a suitable site for contemplation for very long.
 <param ve-image
     fit="contain"
     ref="1"
