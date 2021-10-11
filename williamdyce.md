@@ -39,7 +39,10 @@ sky behind them.
     url="https://www.tate.org.uk/art/images/work/N/N01/N01407_10.jpg">
        
 
-Pegwell Bay, a resort on the edge of [Ramsgate](/19c/19c-ramsgate), was an unlikely place for a vision. In the 1850s it was famous for its shrimps, which could be consumed by the pint in the [Belle Vue Tavern](https://www.thebellevuetavern.co.uk/) at the top of the cliffs. A nearby factory converted them into shrimp paste or shrimp sauce, which was sold in <span data-mouseover-image="1">porcelain pots</span> with views of the visitors had eaten their fill of shrimps, there were donkey rides for children, shown in bay on their lids. Once a <span data-mouseover-image="2">painting</span> by Dyce’s contemporary, Arthur Boyd Houghton, in 1862. Development of the resort was rapid in the 1870s, so that it did not remain a suitable site for contemplation for very long.
+Pegwell Bay, a resort on the edge of [Ramsgate](/19c/19c-ramsgate), was an unlikely place for a vision. In the 1850s it was famous for its shrimps, which could be consumed by the pint in the [Belle Vue Tavern](https://www.thebellevuetavern.co.uk/) at the top of the cliffs. A nearby factory converted them into shrimp paste or shrimp sauce, which was sold in porcelain pots with views of the visitors had eaten their fill of shrimps, there were donkey rides for children, shown in bay on their lids. Once a painting by Dyce’s contemporary, Arthur Boyd Houghton, in 1862. Development of the resort was rapid in the 1870s, so that it did not remain a suitable site for contemplation for very long.
+<param ve-map title="Pegwell Bay, Ramsgate" center="Q3425604" zoom="12" prefer-geojson show-labels>
+
+Dyce’s painting was shown at the Royal Academy exhibition in 1860, where reviewers were generally enthusiastic about it. One critic liked the modernity of the ‘minutely truthful family group in balmorals and linsey-woolsey petticoats’; another found it ‘one of the noblest pictures in the exhibition … poetic beauty developed out of familiar realities’[^1]. 
 <param ve-image
     fit="contain"
     ref="1"
@@ -56,11 +59,7 @@ Pegwell Bay, a resort on the edge of [Ramsgate](/19c/19c-ramsgate), was an unlik
     url="https://d3d00swyhr67nd.cloudfront.net/w944h944/collection/KT/MMB/KT_MMB_B_MAI_46514-001.jpg">
 
 
-Dyce’s painting was shown at the Royal Academy exhibition in 1860, where reviewers were generally enthusiastic about it. One critic liked the modernity of the ‘minutely truthful family group in balmorals and linsey-woolsey petticoats’; another found it ‘one of the noblest pictures in the exhibition … poetic beauty developed out of familiar realities’[^1]. 
-<param ve-map title="Pegwell Bay, Ramsgate" center="Q3425604" zoom="12" prefer-geojson show-labels>
-
-
-The Dyces did not go back to  <span data-mouseover-map-flyto="Q736439">[Ramsgate](/19c/19c-ramsgate)</span> in subsequent summers, having found the lodging there expensive. In 1859 their holiday was in <span data-mouseover-map-flyto="52.9, -3.66">Arran</span>, in 1860 in <span data-mouseover-map-flyto="52.9, -3.66">North Wales</span>, where Dyce claimed they got ‘twice as much for the money as they ever got in England’[^2].  But he could report that he had made £400 from his holiday in [Ramsgate](/19c/19c-ramsgate). We know that the painting was sold to his father-in-law, and presumably that is what he paid. 
+The Dyces did not go back to  <span data-mouseover-map-flyto="Q736439">[Ramsgate](/19c/19c-ramsgate)</span> in subsequent summers, having found the lodging there expensive. In 1859 their holiday was in <span data-mouseover-map-flyto="55.6, -5.23">Arran</span>, in 1860 in <span data-mouseover-map-flyto="52.9, -3.66">North Wales</span>, where Dyce claimed they got ‘twice as much for the money as they ever got in England’[^2].  But he could report that he had made £400 from his holiday in [Ramsgate](/19c/19c-ramsgate). We know that the painting was sold to his father-in-law, and presumably that is what he paid. 
 <param ve-map title="Dyce's holiday destinations" center="Q736439" zoom="12" prefer-geojson show-labels>
 
 
