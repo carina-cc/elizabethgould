@@ -45,13 +45,11 @@ Pegwell Bay, a resort on the edge of [Ramsgate](/19c/19c-ramsgate), was an unlik
 Dyce’s painting was shown at the Royal Academy exhibition in 1860, where reviewers were generally enthusiastic about it. One critic liked the modernity of the ‘minutely truthful family group in balmorals and linsey-woolsey petticoats’; another found it ‘one of the noblest pictures in the exhibition … poetic beauty developed out of familiar realities’[^1]. 
 <param ve-image layers
     fit="contain"
-    ref="1"
     title="Shrimp Paste Pot Lid." 
     description="prattware pot lid from 'Pegwell Bay & Four Shrimpers' collection, c.1860"  
     url="https://i.ebayimg.com/images/g/61wAAOSw0~9hNQto/s-l1600.jpg">
 <param ve-image
     fit="contain"
-    ref="2"
     title="At the Seaside, Pegwell Bay, near Ramsgate, Kent" 
     description="painting by Arthur Boyd Houghton, 1862" 
     license="CC BY 3.0" 
@@ -62,22 +60,22 @@ Dyce’s painting was shown at the Royal Academy exhibition in 1860, where revie
 The Dyces did not go back to  <span data-mouseover-map-flyto="51.4, 1.43">Ramsgate</span> in subsequent summers, having found the lodging there expensive. In 1859 their holiday was in <span data-mouseover-map-flyto="55.6, -5.23">Arran</span>, in 1860 in <span data-mouseover-map-flyto="52.9, -3.66">North Wales</span>, where Dyce claimed they got ‘twice as much for the money as they ever got in England’[^2].  But he could report that he had made £400 from his holiday in [Ramsgate](/19c/19c-ramsgate). We know that the painting was sold to his father-in-law, and presumably that is what he paid. 
 <param ve-map title="Dyce's holiday destinations" center="Q736439" zoom="12" prefer-geojson show-labels>
 
+---
 
-
-# Bibliography
+## Bibliography
 Easdown, Martin. _Adventures in Shrimpville, or Pegwell Bay as a Seaside Resort_. 4th edn. Ramsgate, 2007.
 
 Payne, Christiana (ed.), [In Focus: Pegwell Bay, Kent -  A Recollection of October 5th, 1858 (?1858-60) by William Dyce](https://www.tate.org.uk/research/publications/in-focus/pegwell-bay-kent-william-dyce) Tate Research Publication, 2016
 
 Pointon, Marcia. _William Dyce 1806-1864: A Critical Biography_. Oxford, 1979
 
-# Illustrations
+## Illustrations
 William Dyce, Pegwell Bay – A Recollection of October 5th 1858 (?1858-60). Tate.
 
 Ceramic pot lid featuring _Pegwell Bay and Four Shrimpers_. c. 1860
 
 Houghton, Arthur Boyd. _At the Seaside, Pegwell Bay, near Ramsgate, Kent_ (1862). Maidstone Museum and Bentlif Art Gallery, Maidstone.
 
-# End Notes
+## End Notes
 [^1]: _Times_, no.23612. 5 May 1860.5; Critic:20:514. 12 May 1860. 594.
 [^2]: William Dyce, letter to Robert Cay, 20 October 1860. Dyce Papers TAM 54/31. The Dyce Papers is an unpublished collection of typescript and handwritten notes put together by William Dyce’s son, James Stirling Dyce. It includes transcripts of Dyce’s correspondence and writings. The original is in the archives of Aberdeen Art Gallery and Museum; a microfiche is kept in the Tate Archives.
