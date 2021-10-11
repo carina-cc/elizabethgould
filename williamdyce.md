@@ -15,7 +15,8 @@
 <param ve-entity eid="Q3425604" title="Pegwell Bay">
 <param ve-entity eid="Q4798063" title="Arthur Boyd Houghton">
 <param ve-entity eid="Q211873" title="Arran">
-<param ve-entity eid="Q1892770" title="North Wales">>
+<param ve-entity eid="Q1892770" title="North Wales">
+
 
 
 
@@ -37,7 +38,7 @@ sky behind them.
     description="oil painting by William Dyce, 1858"
     license="CC BY-NC-ND 3.0" 
     attribution="Tate Modern (https://www.tate.org.uk/art/artworks/dyce-pegwell-bay-kent-a-recollection-of-october-5th-1858-n01407)"
-    url="http://free.iiifhosting.com/iiif/b8fc267bd909e09da27c9386b7044ea727305e20df4e588287214f3ab536b832/">
+    manifest="https://carina-cc.github.io/kentmap-images/manifests/manifest2.json">
        
 
 Pegwell Bay, a resort on the edge of [Ramsgate](/19c/19c-ramsgate), was an unlikely place for a vision. In the 1850s it was famous for its shrimps, which could be consumed by the pint in the [Belle Vue Tavern](https://www.thebellevuetavern.co.uk/) at the top of the cliffs. A nearby factory converted them into shrimp paste or shrimp sauce, which was sold in porcelain pots with views of the visitors had eaten their fill of shrimps, there were donkey rides for children, shown in bay on their lids. Once a painting by Dyce’s contemporary, Arthur Boyd Houghton, in 1862. Development of the resort was rapid in the 1870s, so that it did not remain a suitable site for contemplation for very long.
@@ -64,8 +65,8 @@ Dyce’s painting was shown at the Royal Academy exhibition in 1860, where revie
     src="https://www.tate.org.uk/research/publications/in-focus/pegwell-bay-kent-william-dyce/pegwell-bay-1860-exhibition">
 
 
-The Dyces did not go back to [Ramsgate](/19c/19c-ramsgate)  in subsequent summers, having found the lodging there expensive. In 1859 their holiday was in Arran, in 1860 in <span data-mouseover-map-flyto="52.9, -3.66">North Wales</span>, where Dyce claimed they got ‘twice as much for the money as they ever got in England’[^2].  But he could report that he had made £400 from his holiday in [Ramsgate](/19c/19c-ramsgate). We know that the painting was sold to his father-in-law, and presumably that is what he paid. 
-<param ve-map title="Ramsgate" center="Q736439" zoom="12" prefer-geojson show-labels>
+The Dyces did not go back to  <span data-mouseover-map-flyto="Q736439">[Ramsgate](/19c/19c-ramsgate)</span> in subsequent summers, having found the lodging there expensive. In 1859 their holiday was in <span data-mouseover-map-flyto="52.9, -3.66">Arran</span>, in 1860 in <span data-mouseover-map-flyto="52.9, -3.66">North Wales</span>, where Dyce claimed they got ‘twice as much for the money as they ever got in England’[^2].  But he could report that he had made £400 from his holiday in [Ramsgate](/19c/19c-ramsgate). We know that the painting was sold to his father-in-law, and presumably that is what he paid. 
+<param ve-map title="Dyce's holiday destinations" center="Q736439" zoom="12" prefer-geojson show-labels>
 
 
 
