@@ -64,13 +64,10 @@ Dyce’s painting was shown at the Royal Academy exhibition in 1860, where revie
     src="https://www.tate.org.uk/research/publications/in-focus/pegwell-bay-kent-william-dyce/pegwell-bay-1860-exhibition">
 
 
-The Dyces did not go back to [Ramsgate](/19c/19c-ramsgate)  in subsequent summers, having found the lodging there expensive. In 1859 their holiday was in Arran, in 1860 in North Wales, where Dyce claimed they got ‘twice as much for the money as they ever got in England’[^2].  But he could report that he had made £400 from his holiday in [Ramsgate](/19c/19c-ramsgate). We know that the painting was sold to his father-in-law, and presumably that is what he paid. 
+The Dyces did not go back to [Ramsgate](/19c/19c-ramsgate)  in subsequent summers, having found the lodging there expensive. In 1859 their holiday was in Arran, in 1860 in <span data-mouseover-map-flyto="52.9, -3.39">North Wales</span>, where Dyce claimed they got ‘twice as much for the money as they ever got in England’[^2].  But he could report that he had made £400 from his holiday in [Ramsgate](/19c/19c-ramsgate). We know that the painting was sold to his father-in-law, and presumably that is what he paid. 
 <param ve-map title="Ramsgate" center="Q736439" zoom="12" prefer-geojson show-labels>
 
 
-
-[^1]: _Times_, no.23612. 5 May 1860.5; Critic:20:514. 12 May 1860. 594.
-[^2]: William Dyce, letter to Robert Cay, 20 October 1860. Dyce Papers TAM 54/31. The Dyce Papers is an unpublished collection of typescript and handwritten notes put together by William Dyce’s son, James Stirling Dyce. It includes transcripts of Dyce’s correspondence and writings. The original is in the archives of Aberdeen Art Gallery and Museum; a microfiche is kept in the Tate Archives.
 
 # Bibliography
 Easdown, Martin. _Adventures in Shrimpville, or Pegwell Bay as a Seaside Resort_. 4th edn. Ramsgate, 2007.
@@ -85,3 +82,7 @@ William Dyce, Pegwell Bay – A Recollection of October 5th 1858 (?1858-60). Tat
 Ceramic pot lid featuring _Pegwell Bay and Four Shrimpers_. c. 1860
 
 Houghton, Arthur Boyd. _At the Seaside, Pegwell Bay, near Ramsgate, Kent_ (1862). Maidstone Museum and Bentlif Art Gallery, Maidstone.
+
+# End Notes
+[^1]: _Times_, no.23612. 5 May 1860.5; Critic:20:514. 12 May 1860. 594.
+[^2]: William Dyce, letter to Robert Cay, 20 October 1860. Dyce Papers TAM 54/31. The Dyce Papers is an unpublished collection of typescript and handwritten notes put together by William Dyce’s son, James Stirling Dyce. It includes transcripts of Dyce’s correspondence and writings. The original is in the archives of Aberdeen Art Gallery and Museum; a microfiche is kept in the Tate Archives.
