@@ -61,7 +61,7 @@ The Dyces did not go back to  <span data-mouseover-map-flyto="51.4, 1.43">Ramsga
 <param ve-map title="Dyce's holiday destinations" center="Q736439" zoom="12" prefer-geojson show-labels>
 
 
----
+***
 ## Bibliography
 Easdown, Martin. _Adventures in Shrimpville, or Pegwell Bay as a Seaside Resort_. 4th edn. Ramsgate, 2007.
 Payne, Christiana (ed.), [In Focus: Pegwell Bay, Kent -  A Recollection of October 5th, 1858 (?1858-60) by William Dyce](https://www.tate.org.uk/research/publications/in-focus/pegwell-bay-kent-william-dyce) Tate Research Publication, 2016
